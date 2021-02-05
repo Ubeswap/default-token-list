@@ -1,0 +1,24 @@
+{
+  "name": "Koroswap",
+  "logoURI": "https://raw.githubusercontent.com/koroswap/token-list/master/assets/koroswap.svg",
+  "keywords": [
+    "koroswap",
+    "defi"
+  ],
+  "timestamp": "2020-09-03T12:37:57.000+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x765de816845861e75a25fca122bb6898b8b1282a",
+      "name": "Celo Dollar",
+      "symbol": "cUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/koroswap/token-list/master/assets/asset_cUSD.png"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  }
+}
