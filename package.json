@@ -16,5 +16,8 @@
   },
   "scripts": {
     "prepare": "husky install"
-  }
+  },
+  "files": [
+    "ubeswap.token-list.json"
+  ]
 }
