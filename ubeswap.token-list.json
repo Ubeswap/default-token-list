@@ -36,7 +36,7 @@
       "symbol": "CELO",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cGLD.png"
-    },    
+    },
 
     {
       "chainId": 42220,
@@ -53,6 +53,22 @@
       "symbol": "CELO",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cGLD.png"
+    },
+    {
+      "chainId": 42220,
+      "address": "0x64dEFa3544c695db8c535D289d843a189aa26b98",
+      "name": "Moola cUSD",
+      "symbol": "cUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcUSD.png"
+    },
+    {
+      "chainId": 42220,
+      "address": "0x7037F7296B2fc7908de7b57a89efaa8319f0C500",
+      "name": "Moola CELO",
+      "symbol": "CELO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mCELO.png"
     },
     {
       "chainId": 42220,
