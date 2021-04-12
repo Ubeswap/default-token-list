@@ -2,6 +2,7 @@
   "name": "Ubeswap",
   "logoURI": "https://raw.githubusercontent.com/Ubeswap/default-token-list/master/logo.svg",
   "keywords": ["ubeswap", "defi"],
+  "timestamp": "2021-04-12T08:37:16.526Z",
   "tokens": [
     {
       "address": "0x874069fa1eb16d44d622f2e0ca25eea172369bc1",
@@ -103,6 +104,6 @@
   "version": {
     "major": 0,
     "minor": 3,
-    "patch": 3
+    "patch": 4
   }
 }

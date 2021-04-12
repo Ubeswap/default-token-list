@@ -11,6 +11,7 @@ const result = {
   logoURI:
     "https://raw.githubusercontent.com/Ubeswap/default-token-list/master/logo.svg",
   keywords: ["ubeswap", "defi"],
+  timestamp: new Date().toISOString(),
   tokens: [
     ...alfajores.map((el) => ({ ...el, chainId: 44787 })),
     ...baklava.map((el) => ({ ...el, chainId: 62320 })),
