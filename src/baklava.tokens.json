@@ -1,0 +1,13 @@
+[
+  {
+    "address": "0x62492a644a588fd904270bed06ad52b9abfea1ae",
+    "name": "Celo Dollar",
+    "symbol": "cUSD"
+  },
+  {
+    "address": "0xddc9be57f553fe75752d61606b94cbd7e0264ef8",
+    "name": "Celo",
+    "symbol": "CELO",
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cGLD.png"
+  }
+]

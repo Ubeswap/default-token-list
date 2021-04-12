@@ -1,9 +1,9 @@
 {
   "name": "@ubeswap/default-token-list",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "Ubeswap default token list",
   "main": "ubeswap.token-list.json",
-  "repository": "git@github.com:ubeswap/token-list.git",
+  "repository": "git@github.com:ubeswap/default-token-list.git",
   "author": "Ian Macalinao <ian@ubeswap.org>",
   "license": "MIT",
   "devDependencies": {
@@ -15,9 +15,11 @@
     "*.{js,css,md,json}": "prettier --write"
   },
   "scripts": {
+    "build": "node build-list.js && prettier --write ubeswap.token-list.json",
     "prepare": "husky install"
   },
   "files": [
     "ubeswap.token-list.json"
-  ]
+  ],
+  "prettier": {}
 }

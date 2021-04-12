@@ -1,0 +1,28 @@
+[
+  {
+    "address": "0x874069fa1eb16d44d622f2e0ca25eea172369bc1",
+    "name": "Celo Dollar",
+    "symbol": "cUSD"
+  },
+  {
+    "address": "0xf194afdf50b03e69bd7d057c1aa9e10c9954e4c9",
+    "name": "Celo",
+    "symbol": "CELO",
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cGLD.png"
+  },
+  {
+    "address": "0x71DB38719f9113A36e14F409bAD4F07B58b4730b",
+    "name": "Moola cUSD",
+    "symbol": "mcUSD"
+  },
+  {
+    "address": "0x86f61EB83e10e914fc6F321F5dD3c2dD4860a003",
+    "name": "Moola CELO",
+    "symbol": "mCELO"
+  },
+  {
+    "address": "0x10c892A6EC43a53E45D0B916B4b7D383B1b78C0F",
+    "name": "Celo Euro",
+    "symbol": "cEUR"
+  }
+]
