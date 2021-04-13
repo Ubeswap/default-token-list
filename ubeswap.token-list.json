@@ -99,6 +99,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cMCO2.png"
+    },
+    {
+      "address": "0x119262039c41c257c541D248d82F1dafe098F533",
+      "name": "Cfa",
+      "symbol": "XOF",
+      "chainId": 42220,
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_xof.png"
     }
   ],
   "version": {
