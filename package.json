@@ -7,6 +7,7 @@
   "author": "Ian Macalinao <ian@ubeswap.org>",
   "license": "MIT",
   "devDependencies": {
+    "@ethersproject/address": "^5.1.0",
     "husky": ">=6",
     "lint-staged": ">=10",
     "prettier": "^2.2.1"
@@ -22,8 +23,5 @@
   "files": [
     "ubeswap.token-list.json"
   ],
-  "prettier": {},
-  "dependencies": {
-    "@ethersproject/address": "^5.1.0"
-  }
+  "prettier": {}
 }
