@@ -1,9 +1,9 @@
-const alfajores = require("./src/alfajores.tokens.json");
-const mainnet = require("./src/mainnet.tokens.json");
-const baklava = require("./src/baklava.tokens.json");
+const alfajores = require("../src/alfajores.tokens.json");
+const mainnet = require("../src/mainnet.tokens.json");
+const baklava = require("../src/baklava.tokens.json");
 const fs = require("fs");
 
-const package = require("./package.json");
+const package = require("../package.json");
 const version = package.version.split(".");
 
 const result = {

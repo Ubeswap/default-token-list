@@ -12,14 +12,17 @@
     "prettier": "^2.2.1"
   },
   "lint-staged": {
-    "*.{js,css,md,json}": "prettier --write"
+    "*.{js,css,md,json,yaml,yml}": "prettier --write"
   },
   "scripts": {
-    "build": "node build-list.js && prettier --write ubeswap.token-list.json",
+    "build": "node scripts/cleanupTokens.js && node scripts/buildList.js && prettier --write .",
     "prepare": "husky install"
   },
   "files": [
     "ubeswap.token-list.json"
   ],
-  "prettier": {}
+  "prettier": {},
+  "dependencies": {
+    "@ethersproject/address": "^5.1.0"
+  }
 }
