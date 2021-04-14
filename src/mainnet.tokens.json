@@ -7,8 +7,7 @@
   {
     "address": "0x471EcE3750Da237f93B8E339c536989b8978a438",
     "name": "Celo",
-    "symbol": "CELO",
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cGLD.png"
+    "symbol": "CELO"
   },
   {
     "address": "0x64dEFa3544c695db8c535D289d843a189aa26b98",
