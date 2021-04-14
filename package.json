@@ -16,7 +16,7 @@
   },
   "scripts": {
     "build": "node scripts/cleanupTokens.js && node scripts/buildList.js && prettier --write .",
-    "prepublishOnly": "npm run build",
+    "prepack": "npm run build",
     "prepare": "husky install"
   },
   "files": [
