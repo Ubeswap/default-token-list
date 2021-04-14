@@ -1,6 +1,6 @@
 {
   "name": "@ubeswap/default-token-list",
-  "version": "0.3.4",
+  "version": "0.4.0",
   "description": "Ubeswap default token list",
   "main": "ubeswap.token-list.json",
   "repository": "git@github.com:ubeswap/default-token-list.git",
@@ -16,6 +16,7 @@
   },
   "scripts": {
     "build": "node scripts/cleanupTokens.js && node scripts/buildList.js && prettier --write .",
+    "prepublishOnly": "npm run build",
     "prepare": "husky install"
   },
   "files": [
