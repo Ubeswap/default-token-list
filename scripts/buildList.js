@@ -7,6 +7,10 @@ const package = require("../package.json");
 const version = package.version.split(".");
 const process = require("process");
 
+const timestamp = process.env.CI
+  ? require("../ubeswap.token-list.json").timestamp
+  : new Date().toISOString();
+
 const LOGO_URI_BASE =
   "https://raw.githubusercontent.com/ubeswap/default-token-list/master";
 
@@ -15,8 +19,8 @@ const main = async () => {
     name: "Ubeswap",
     logoURI:
       "https://raw.githubusercontent.com/Ubeswap/default-token-list/master/logo.svg",
-    keywords: ["ubeswap", "defi"],
-    timestamp: new Date().toISOString(),
+    keywords: ["celo", "ubeswap", "defi"],
+    timestamp,
     tokens: await Promise.all(
       [
         ...alfajores.map((el) => ({ ...el, chainId: 44787 })),
