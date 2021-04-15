@@ -1,5 +1,10 @@
 [
   {
+    "address": "0x2879BFD5e7c4EF331384E908aaA3Bd3014b703fA",
+    "name": "Savings CELO",
+    "symbol": "sCELO"
+  },
+  {
     "address": "0x32A9FE697a32135BFd313a6Ac28792DaE4D9979d",
     "name": "Celo Moss Carbon Credit",
     "symbol": "cMCO2"

@@ -1,5 +1,10 @@
 [
   {
+    "address": "0xCCB21916b4379c775aD2005F176E757f084aaBd0",
+    "name": "Savings CELO",
+    "symbol": "sCELO"
+  },
+  {
     "address": "0x62492A644A588FD904270BeD06ad52B9abfEA1aE",
     "name": "Celo Dollar",
     "symbol": "cUSD"
