@@ -53,7 +53,7 @@ const main = async () => {
           return {
             ...el,
             decimals: el.decimals || 18,
-            logoURI: el.logoURI,
+            logoURI,
           };
         })
     ),
