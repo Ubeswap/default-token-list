@@ -23,4 +23,4 @@ jobs:
       - name: Ensure generated JSON are tokenlists
         run: yarn lint
       - name: Check if 'yarn build' was run before making the pull request
-        run: git diff-index --quiet HEAD --
+        run: git diff && git diff-index --quiet HEAD --

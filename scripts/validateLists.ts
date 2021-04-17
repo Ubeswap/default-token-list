@@ -42,5 +42,4 @@ const validateList = (list: TokenList) => {
   }
 };
 
-validateList(defaultList);
-validateList(experimental);
+[defaultList, experimental].map(validateList);
