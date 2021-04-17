@@ -16,7 +16,11 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: 14.x
-      - run: yarn
-      - run: yarn build && git diff
+      - name: Install dependencies
+        run: yarn
+      - name: Build token list
+        run: yarn build
+      - name: Ensure generated JSON are tokenlists
+        run: yarn lint
       - name: Check if 'yarn build' was run before making the pull request
         run: git diff-index --quiet HEAD --

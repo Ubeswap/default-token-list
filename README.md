@@ -8,5 +8,5 @@ To add a token to Ubeswap:
 
 1. Add your token's logo to `assets/`
 2. Add your token to `src/<network>.token-list.json`, where `<network>` is the name of the network your token is deployed to.
-3. Run `yarn build` to regenerate the main token list.
+3. Run `yarn build` to regenerate the main token list. Note: you must be on Node.js 14.x or later to do this.
 4. Submit a pull request.
