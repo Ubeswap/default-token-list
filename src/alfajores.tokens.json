@@ -5,6 +5,11 @@
     "symbol": "cEUR"
   },
   {
+    "address": "0x32974C7335e649932b5766c5aE15595aFC269160",
+    "name": "Moola cEUR",
+    "symbol": "mcEUR"
+  },
+  {
     "address": "0x71DB38719f9113A36e14F409bAD4F07B58b4730b",
     "name": "Moola cUSD",
     "symbol": "mcUSD"

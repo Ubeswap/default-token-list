@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-04-17T02:43:23.336Z",
+  "timestamp": "2021-04-17T09:06:15.328Z",
   "tokens": [
     {
       "address": "0x10c892A6EC43a53E45D0B916B4b7D383B1b78C0F",
@@ -11,6 +11,14 @@
       "chainId": 44787,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cEUR.png"
+    },
+    {
+      "address": "0x32974C7335e649932b5766c5aE15595aFC269160",
+      "name": "Moola cEUR",
+      "symbol": "mcEUR",
+      "chainId": 44787,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcEUR.png"
     },
     {
       "address": "0x71DB38719f9113A36e14F409bAD4F07B58b4730b",
@@ -83,6 +91,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_sCELO.png"
+    },
+    {
+      "address": "0xa8d0E6799FF3Fd19c6459bf02689aE09c4d78Ba7",
+      "name": "Moola cEUR",
+      "symbol": "mcEUR",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcEUR.png"
     },
     {
       "address": "0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73",
