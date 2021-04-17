@@ -70,15 +70,15 @@ const main = async () => {
     })
   );
 
-  const mainTokens = allTokens.filter(
-    (tok) => tok.isExperimental !== true && tok.chainId === 42220
-  );
-
-  const mainTokenListTokens = mainTokens.map(
-    ({ isExperimental, ...tok }): TokenInfo => tok
-  );
-  const experimentalTokenListTokens = allTokens.map(
-    ({ isExperimental, ...tok }): TokenInfo => tok
+  const [mainTokenListTokens, experimentalTokenListTokens] = allTokens.reduce(
+    ([mainTokens, experimentalTokens], { isExperimental, ...tok }) => {
+      if (isExperimental !== true && tok.chainId === 42220) {
+        return [[...mainTokens, tok], experimentalTokens];
+      } else {
+        return [mainTokens, [...experimentalTokens, tok]];
+      }
+    },
+    [[] as TokenInfo[], [] as TokenInfo[]]
   );
 
   const previousTokenList = requireOrNull(
