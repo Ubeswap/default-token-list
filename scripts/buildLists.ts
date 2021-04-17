@@ -70,12 +70,16 @@ const main = async () => {
     })
   );
 
-  const mainTokenList = allTokens
-    .filter((tok) => tok.isExperimental !== true && tok.chainId === 42220)
-    .map((tok) => {
-      delete tok.isExperimental;
-      return tok as TokenInfo;
-    });
+  const mainTokens = allTokens.filter(
+    (tok) => tok.isExperimental !== true && tok.chainId === 42220
+  );
+
+  const mainTokenListTokens = mainTokens.map(
+    ({ isExperimental, ...tok }): TokenInfo => tok
+  );
+  const experimentalTokenListTokens = allTokens.map(
+    ({ isExperimental, ...tok }): TokenInfo => tok
+  );
 
   const previousTokenList = requireOrNull(
     __dirname,
@@ -86,10 +90,10 @@ const main = async () => {
     "../ubeswap-experimental.token-list.json"
   );
 
-  const tokenList = makeTokenList(previousTokenList, mainTokenList);
+  const tokenList = makeTokenList(previousTokenList, mainTokenListTokens);
   const experimentalTokenList = makeTokenList(
     previousExperimentalTokenList,
-    allTokens
+    experimentalTokenListTokens
   );
 
   await fs.writeFile(

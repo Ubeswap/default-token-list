@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-04-17T02:03:38.932Z",
+  "timestamp": "2021-04-17T02:29:28.467Z",
   "tokens": [
     {
       "address": "0x10c892A6EC43a53E45D0B916B4b7D383B1b78C0F",
@@ -80,7 +80,6 @@
       "address": "0x2879BFD5e7c4EF331384E908aaA3Bd3014b703fA",
       "name": "Savings CELO",
       "symbol": "sCELO",
-      "isExperimental": true,
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_sCELO.png"
@@ -129,7 +128,6 @@
       "address": "0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73",
       "name": "Celo Euro",
       "symbol": "cEUR",
-      "isExperimental": true,
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cEUR.png"
