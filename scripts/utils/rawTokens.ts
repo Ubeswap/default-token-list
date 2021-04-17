@@ -1,18 +1,14 @@
 import alfajores from "../../src/alfajores.tokens.json";
 import mainnet from "../../src/mainnet.tokens.json";
 import baklava from "../../src/baklava.tokens.json";
+import { TokenInfo } from "@uniswap/token-lists";
 
-interface IRawToken {
-  address: string;
-  name: string;
-  symbol: string;
-  isExperimental?: boolean;
-  logoURI?: string;
-  decimals?: number;
-  chainId: number;
-}
+type IRawToken = Pick<TokenInfo, "address" | "name" | "symbol"> &
+  Partial<Pick<TokenInfo, "logoURI" | "decimals">> & {
+    isExperimental?: boolean;
+  };
 
-type IRawTokenListJson = readonly Omit<IRawToken, "chainId">[];
+type IRawTokenListJson = readonly IRawToken[];
 
 export const CELO_NETWORK_NAMES = ["alfajores", "baklava", "mainnet"] as const;
 export type ICeloNetwork = typeof CELO_NETWORK_NAMES[number];
@@ -29,6 +25,8 @@ const rawTokensJson: {
 export const getNetworkTokens = (network: ICeloNetwork): IRawTokenListJson =>
   rawTokensJson[network][1];
 
-export const rawTokens: readonly IRawToken[] = Object.values(
-  rawTokensJson
-).flatMap(([chainId, tokens]) => tokens.map((tok) => ({ ...tok, chainId })));
+export const rawTokens: readonly (IRawToken & {
+  chainId: number;
+})[] = Object.values(rawTokensJson).flatMap(([chainId, tokens]) =>
+  tokens.map((tok) => ({ ...tok, chainId }))
+);
