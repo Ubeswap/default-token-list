@@ -20,6 +20,11 @@
     "symbol": "cUSD"
   },
   {
+    "address": "0xb9B532e99DfEeb0ffB4D3EDB499f09375CF9Bf07",
+    "name": "Savings CELO",
+    "symbol": "sCELO"
+  },
+  {
     "address": "0xF194afDf50B03e69Bd7D057c1Aa9e10c9954E4C9",
     "name": "Celo",
     "symbol": "CELO"
