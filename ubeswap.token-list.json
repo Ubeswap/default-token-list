@@ -2,7 +2,7 @@
   "name": "Ubeswap",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-04-21T07:59:38.129Z",
+  "timestamp": "2021-04-21T07:59:59.043Z",
   "tokens": [
     {
       "address": "0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC",
@@ -87,7 +87,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 0,
-    "patch": 3
+    "minor": 1,
+    "patch": 0
   }
 }
