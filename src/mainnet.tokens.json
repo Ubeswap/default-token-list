@@ -1,5 +1,11 @@
 [
   {
+    "address": "0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC",
+    "name": "Ubeswap",
+    "symbol": "UBE",
+    "isExperimental": true
+  },
+  {
     "address": "0x2879BFD5e7c4EF331384E908aaA3Bd3014b703fA",
     "name": "Savings CELO",
     "symbol": "sCELO",
