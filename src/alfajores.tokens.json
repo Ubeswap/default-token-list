@@ -5,6 +5,11 @@
     "symbol": "cEUR"
   },
   {
+    "address": "0x123ED050805E0998EBEf43671327139224218e50",
+    "name": "NetM Token",
+    "symbol": "NTMX"
+  },
+  {
     "address": "0x32974C7335e649932b5766c5aE15595aFC269160",
     "name": "Moola cEUR",
     "symbol": "mcEUR"
