@@ -93,7 +93,7 @@ const main = async () => {
   const tokenList = makeTokenList(previousTokenList, mainTokenListTokens);
   const experimentalTokenList = makeTokenList(
     previousExperimentalTokenList,
-    experimentalTokenListTokens
+    allTokens
   );
 
   await fs.writeFile(
