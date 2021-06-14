@@ -6,8 +6,9 @@
   },
   {
     "address": "0x22401536505dd5d85F7d57f8B37172feDa8f499d",
-    "name": "CeloShiba (exp.)",
-    "symbol": "cSHIBA"
+    "name": "CeloShiba",
+    "symbol": "cSHIBA",
+    "isExperimental": true
   },
   {
     "address": "0x2879BFD5e7c4EF331384E908aaA3Bd3014b703fA",
@@ -61,7 +62,8 @@
   },
   {
     "address": "0xD90BBdf5904cb7d275c41f897495109B9A5adA58",
-    "name": "CeloDoge (exp.)",
-    "symbol": "cDOGE"
+    "name": "CeloDoge",
+    "symbol": "cDOGE",
+    "isExperimental": true
   }
 ]
