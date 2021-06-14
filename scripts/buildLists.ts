@@ -73,7 +73,10 @@ const main = async () => {
   const [mainTokenListTokens, experimentalTokenListTokens] = allTokens.reduce(
     ([mainTokens, experimentalTokens], { isExperimental, ...tok }) => {
       if (isExperimental !== true && tok.chainId === 42220) {
-        return [[...mainTokens, tok], experimentalTokens];
+        return [
+          [...mainTokens, tok],
+          [...experimentalTokens, tok],
+        ];
       } else {
         return [mainTokens, [...experimentalTokens, tok]];
       }
@@ -93,7 +96,7 @@ const main = async () => {
   const tokenList = makeTokenList(previousTokenList, mainTokenListTokens);
   const experimentalTokenList = makeTokenList(
     previousExperimentalTokenList,
-    allTokens
+    experimentalTokenListTokens
   );
 
   await fs.writeFile(
