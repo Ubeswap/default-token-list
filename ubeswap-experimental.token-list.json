@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-06-14T03:10:44.844Z",
+  "timestamp": "2021-06-21T16:13:47.724Z",
   "tokens": [
     {
       "address": "0x10c892A6EC43a53E45D0B916B4b7D383B1b78C0F",
@@ -53,6 +53,14 @@
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_sCELO.png"
     },
     {
+      "address": "0xBDeedCDA79BAbc4Eb509aB689895a3054461691e",
+      "name": "Rewards CELO",
+      "symbol": "rCELO",
+      "chainId": 44787,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_rCELO.png"
+    },
+    {
       "address": "0xF194afDf50B03e69Bd7D057c1Aa9e10c9954E4C9",
       "name": "Celo",
       "symbol": "CELO",
@@ -91,6 +99,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_UBE.png"
+    },
+    {
+      "address": "0x1a8Dbe5958c597a744Ba51763AbEBD3355996c3e",
+      "name": "Rewards CELO",
+      "symbol": "rCELO",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_rCELO.png"
     },
     {
       "address": "0x22401536505dd5d85F7d57f8B37172feDa8f499d",

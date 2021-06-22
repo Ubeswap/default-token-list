@@ -5,6 +5,11 @@
     "symbol": "UBE"
   },
   {
+    "address": "0x1a8Dbe5958c597a744Ba51763AbEBD3355996c3e",
+    "name": "Rewards CELO",
+    "symbol": "rCELO"
+  },
+  {
     "address": "0x22401536505dd5d85F7d57f8B37172feDa8f499d",
     "name": "CeloShiba",
     "symbol": "cSHIBA",
