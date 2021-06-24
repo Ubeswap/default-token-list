@@ -19,6 +19,7 @@ jobs:
         uses: actions/setup-node@v2
         with:
           always-auth: true
+          registry-url: "https://registry.npmjs.org"
           node-version: 14.x
       - name: Cache Node modules
         uses: actions/cache@v2
@@ -37,7 +38,6 @@ jobs:
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_AUTH_TOKEN }}
       - run: git push origin HEAD --tags
-
       # Upload artifacts
       - name: Release
         uses: softprops/action-gh-release@v1
