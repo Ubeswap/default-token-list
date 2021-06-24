@@ -35,7 +35,7 @@ jobs:
       - name: Ensure generated JSON are tokenlists
         run: yarn lint
       - name: Publish
-        run: yarn publish --patch
+        run: yarn publish --minor
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_AUTH_TOKEN }}
       - run: git push origin HEAD --tags
