@@ -30,6 +30,8 @@ jobs:
         run: yarn install
       - name: Build token list
         run: yarn build
+      - name: Ensure generated JSON are tokenlists
+        run: yarn lint
       - name: Publish
         run: yarn publish --patch
         env:
