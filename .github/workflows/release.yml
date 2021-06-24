@@ -2,15 +2,17 @@ name: Release
 
 on:
   push:
-    tags:
-      - "v*.*.*"
+    branches:
+      - master
 
 jobs:
   release:
     runs-on: ubuntu-latest
+    if: ${{ github.event.pusher.name != "github-actions[bot]" }}
     name: Build and publish the new token list
     steps:
       - uses: actions/checkout@v2
+      - uses: fregante/setup-git-user@v1
 
       # Create package
       - name: Setup Node
@@ -26,8 +28,10 @@ jobs:
           key: ${{ runner.os }}-${{ hashFiles('**/yarn.lock') }}
       - name: Install Yarn dependencies
         run: yarn install
+      - name: Build token list
+        run: yarn build
       - name: Publish
-        run: yarn publish
+        run: yarn publish --patch
         env:
           NODE_AUTH_TOKEN: ${{ env.NPM_AUTH_TOKEN }}
 
