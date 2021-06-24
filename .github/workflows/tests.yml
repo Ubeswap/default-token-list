@@ -1,9 +1,6 @@
 name: Ensure that 'yarn build' was run before making the pull request
 
 on:
-  push:
-    branches:
-      - master
   pull_request:
 
 jobs:
