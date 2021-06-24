@@ -8,7 +8,7 @@ on:
 jobs:
   release:
     runs-on: ubuntu-latest
-    if: ${{ github.event.pusher.name != "github-actions[bot]" }}
+    if: ${{ github.event.pusher.name != 'github-actions[bot]' }}
     name: Build and publish the new token list
     steps:
       - uses: actions/checkout@v2
