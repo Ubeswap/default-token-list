@@ -36,6 +36,7 @@ jobs:
         run: yarn publish --patch
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_AUTH_TOKEN }}
+      - run: git push origin HEAD --tags
 
       # Upload artifacts
       - name: Release
