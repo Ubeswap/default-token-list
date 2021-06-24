@@ -87,10 +87,10 @@
     {
       "address": "0xD629eb00dEced2a080B7EC630eF6aC117e614f1b",
       "name": "Wrapped Bitcoin",
-      "symbol": "BTC",
+      "symbol": "cBTC",
       "chainId": 42220,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_BTC.png"
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cBTC.png"
     },
     {
       "address": "0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73",
@@ -104,6 +104,6 @@
   "version": {
     "major": 3,
     "minor": 3,
-    "patch": 0
+    "patch": 1
   }
 }
