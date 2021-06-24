@@ -1,0 +1,38 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - "v*.*.*"
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    name: Build and publish the new token list
+    steps:
+      - uses: actions/checkout@v2
+
+      # Create package
+      - name: Setup Node
+        uses: actions/setup-node@v2
+        with:
+          always-auth: true
+          node-version: 14.x
+      - name: Cache Node modules
+        uses: actions/cache@v2
+        id: cache-node-modules
+        with:
+          path: ./node_modules
+          key: ${{ runner.os }}-${{ hashFiles('**/yarn.lock') }}
+      - name: Install Yarn dependencies
+        run: yarn install
+      - name: Publish
+        run: yarn publish
+        env:
+          NODE_AUTH_TOKEN: ${{ env.NPM_AUTH_TOKEN }}
+
+      # Upload artifacts
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
