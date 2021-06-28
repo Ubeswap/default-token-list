@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-06-24T20:54:45.498Z",
+  "timestamp": "2021-06-28T00:08:38.671Z",
   "tokens": [
     {
       "address": "0x10c892A6EC43a53E45D0B916B4b7D383B1b78C0F",
@@ -131,6 +131,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cMCO2.png"
+    },
+    {
+      "address": "0x452EF5a4bD00796e62E5e5758548e0dA6e8CCDF3",
+      "name": "CeloStarter",
+      "symbol": "cStar",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cStar.png"
     },
     {
       "address": "0x471EcE3750Da237f93B8E339c536989b8978a438",

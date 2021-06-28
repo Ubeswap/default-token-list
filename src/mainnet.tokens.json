@@ -26,6 +26,12 @@
     "symbol": "cMCO2"
   },
   {
+    "address": "0x452EF5a4bD00796e62E5e5758548e0dA6e8CCDF3",
+    "name": "CeloStarter",
+    "symbol": "cStar",
+    "isExperimental": true
+  },
+  {
     "address": "0x471EcE3750Da237f93B8E339c536989b8978a438",
     "name": "Celo",
     "symbol": "CELO"
