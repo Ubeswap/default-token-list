@@ -38,5 +38,10 @@
     "address": "0xF194afDf50B03e69Bd7D057c1Aa9e10c9954E4C9",
     "name": "Celo",
     "symbol": "CELO"
+  },
+  {
+    "address": "0x4d8BF8347600f5207bfdad57363fBa802C9C2031",
+    "name": "Marzipan Finance",
+    "symbol": "MZPN"
   }
 ]
