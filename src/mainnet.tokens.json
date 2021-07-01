@@ -76,5 +76,10 @@
     "name": "CeloDoge",
     "symbol": "cDOGE",
     "isExperimental": true
-  }
+  },
+  {
+    "address": "",
+    "name": "Marzipan Finance",
+    "symbol": "MZPN"
+  } 
 ]
