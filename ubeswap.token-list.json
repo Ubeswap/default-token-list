@@ -2,7 +2,7 @@
   "name": "Ubeswap",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-06-28T00:08:38.671Z",
+  "timestamp": "2021-07-03T10:03:46.025Z",
   "tokens": [
     {
       "address": "0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC",
@@ -75,6 +75,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cXOF.png"
+    },
+    {
+      "address": "0x9Ee153D4Fdf0E3222eFD092c442ebB21DFd346AC",
+      "name": "Marzipan Finance",
+      "symbol": "MZPN",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_MZPN.png"
     },
     {
       "address": "0xa8d0E6799FF3Fd19c6459bf02689aE09c4d78Ba7",
