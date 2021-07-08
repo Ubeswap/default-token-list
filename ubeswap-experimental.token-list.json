@@ -2,8 +2,16 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-06-28T00:08:38.671Z",
+  "timestamp": "2021-07-08T14:45:52.849Z",
   "tokens": [
+    {
+      "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
+      "name": "Poof Governance Token",
+      "symbol": "POOF",
+      "chainId": 44787,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_POOF.png"
+    },
     {
       "address": "0x10c892A6EC43a53E45D0B916B4b7D383B1b78C0F",
       "name": "Celo Euro",
@@ -91,6 +99,14 @@
       "chainId": 62320,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_CELO.png"
+    },
+    {
+      "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
+      "name": "Poof Governance Token",
+      "symbol": "POOF",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_POOF.png"
     },
     {
       "address": "0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC",

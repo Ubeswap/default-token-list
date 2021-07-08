@@ -1,5 +1,10 @@
 [
   {
+    "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
+    "name": "Poof Governance Token",
+    "symbol": "POOF"
+  },
+  {
     "address": "0x10c892A6EC43a53E45D0B916B4b7D383B1b78C0F",
     "name": "Celo Euro",
     "symbol": "cEUR"

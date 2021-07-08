@@ -1,5 +1,10 @@
 [
   {
+    "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
+    "name": "Poof Governance Token",
+    "symbol": "POOF"
+  },
+  {
     "address": "0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC",
     "name": "Ubeswap",
     "symbol": "UBE"
