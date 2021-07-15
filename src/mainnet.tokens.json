@@ -26,6 +26,12 @@
     "symbol": "sCELO"
   },
   {
+    "address": "0x2DEf4285787d58a2f811AF24755A8150622f4361",
+    "name": "Wrapped Ethereum",
+    "symbol": "cETH",
+    "logoFile": "asset_cETH.svg"
+  },
+  {
     "address": "0x32A9FE697a32135BFd313a6Ac28792DaE4D9979d",
     "name": "Celo Moss Carbon Credit",
     "symbol": "cMCO2"

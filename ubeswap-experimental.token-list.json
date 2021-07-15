@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-07-08T14:45:52.849Z",
+  "timestamp": "2021-07-15T17:25:07.700Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -139,6 +139,15 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_sCELO.png"
+    },
+    {
+      "address": "0x2DEf4285787d58a2f811AF24755A8150622f4361",
+      "name": "Wrapped Ethereum",
+      "symbol": "cETH",
+      "logoFile": "asset_cETH.svg",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cETH.svg"
     },
     {
       "address": "0x32A9FE697a32135BFd313a6Ac28792DaE4D9979d",

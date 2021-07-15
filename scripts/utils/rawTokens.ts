@@ -6,6 +6,7 @@ import { TokenInfo } from "@uniswap/token-lists";
 type IRawToken = Pick<TokenInfo, "address" | "name" | "symbol"> &
   Partial<Pick<TokenInfo, "logoURI" | "decimals">> & {
     isExperimental?: boolean;
+    logoFile?: string;
   };
 
 type IRawTokenListJson = readonly IRawToken[];

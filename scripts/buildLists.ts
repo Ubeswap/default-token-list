@@ -41,20 +41,16 @@ const main = async () => {
   const allTokens = await Promise.all(
     rawTokens.map(async (el) => {
       const logoURI =
-        el.logoURI || `${LOGO_URI_BASE}/assets/asset_${el.symbol}.png`;
+        el.logoURI ||
+        (el.logoFile ? `${LOGO_URI_BASE}/assets/${el.logoFile}` : null) ||
+        `${LOGO_URI_BASE}/assets/asset_${el.symbol}.png`;
 
       // Validate
       if (logoURI.startsWith(LOGO_URI_BASE)) {
-        if (logoURI !== `${LOGO_URI_BASE}/assets/asset_${el.symbol}.png`) {
-          throw new Error(
-            `unexpected logo URI: ${el.symbol} but got ${logoURI.slice(
-              logoURI.lastIndexOf("/")
-            )}`
-          );
-        }
-        const stat = await fs.stat(
-          `${__dirname}/..${logoURI.slice(LOGO_URI_BASE.length)}`
-        );
+        const logoPath = `${__dirname}/..${logoURI.substring(
+          LOGO_URI_BASE.length
+        )}`;
+        const stat = await fs.stat(logoPath);
         if (!stat.isFile()) {
           throw new Error(
             `logo for ${el.address} on ${el.chainId} does not exist`
