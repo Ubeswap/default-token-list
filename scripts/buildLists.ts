@@ -39,10 +39,10 @@ const makeTokenList = (
 
 const main = async () => {
   const allTokens = await Promise.all(
-    rawTokens.map(async (el) => {
+    rawTokens.map(async ({ logoURI: elLogoURI, logoFile, ...el }) => {
       const logoURI =
-        el.logoURI ||
-        (el.logoFile ? `${LOGO_URI_BASE}/assets/${el.logoFile}` : null) ||
+        elLogoURI ||
+        (logoFile ? `${LOGO_URI_BASE}/assets/${logoFile}` : null) ||
         `${LOGO_URI_BASE}/assets/asset_${el.symbol}.png`;
 
       // Validate
