@@ -39,22 +39,18 @@ const makeTokenList = (
 
 const main = async () => {
   const allTokens = await Promise.all(
-    rawTokens.map(async (el) => {
+    rawTokens.map(async ({ logoURI: elLogoURI, logoFile, ...el }) => {
       const logoURI =
-        el.logoURI || `${LOGO_URI_BASE}/assets/asset_${el.symbol}.png`;
+        elLogoURI ||
+        (logoFile ? `${LOGO_URI_BASE}/assets/${logoFile}` : null) ||
+        `${LOGO_URI_BASE}/assets/asset_${el.symbol}.png`;
 
       // Validate
       if (logoURI.startsWith(LOGO_URI_BASE)) {
-        if (logoURI !== `${LOGO_URI_BASE}/assets/asset_${el.symbol}.png`) {
-          throw new Error(
-            `unexpected logo URI: ${el.symbol} but got ${logoURI.slice(
-              logoURI.lastIndexOf("/")
-            )}`
-          );
-        }
-        const stat = await fs.stat(
-          `${__dirname}/..${logoURI.slice(LOGO_URI_BASE.length)}`
-        );
+        const logoPath = `${__dirname}/..${logoURI.substring(
+          LOGO_URI_BASE.length
+        )}`;
+        const stat = await fs.stat(logoPath);
         if (!stat.isFile()) {
           throw new Error(
             `logo for ${el.address} on ${el.chainId} does not exist`
@@ -73,7 +69,10 @@ const main = async () => {
   const [mainTokenListTokens, experimentalTokenListTokens] = allTokens.reduce(
     ([mainTokens, experimentalTokens], { isExperimental, ...tok }) => {
       if (isExperimental !== true && tok.chainId === 42220) {
-        return [[...mainTokens, tok], experimentalTokens];
+        return [
+          [...mainTokens, tok],
+          [...experimentalTokens, tok],
+        ];
       } else {
         return [mainTokens, [...experimentalTokens, tok]];
       }

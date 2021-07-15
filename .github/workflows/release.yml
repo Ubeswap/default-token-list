@@ -1,0 +1,41 @@
+name: Release
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.pusher.name != 'github-actions[bot]' }}
+    name: Build and publish the new token list
+    steps:
+      - uses: actions/checkout@v2
+      - uses: fregante/setup-git-user@v1
+
+      # Create package
+      - name: Setup Node
+        uses: actions/setup-node@v2
+        with:
+          always-auth: true
+          registry-url: "https://registry.npmjs.org"
+          node-version: 14.x
+
+      - name: Cache Node modules
+        uses: actions/cache@v2
+        id: cache-node-modules
+        with:
+          path: ./node_modules
+          key: ${{ runner.os }}-${{ hashFiles('**/yarn.lock') }}
+      - name: Install Yarn dependencies
+        run: yarn install
+      - name: Build token list
+        run: yarn build
+      - name: Ensure generated JSON are tokenlists
+        run: yarn lint
+      - name: Publish
+        run: yarn publish --patch
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_AUTH_TOKEN }}
+      - run: git push origin HEAD --tags
