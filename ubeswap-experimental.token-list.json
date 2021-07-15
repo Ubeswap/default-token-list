@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-07-15T17:34:51.334Z",
+  "timestamp": "2021-07-15T17:35:25.866Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -123,6 +123,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_UBE.png"
+    },
+    {
+      "address": "0x123ED050805E0998EBEf43671327139224218e50",
+      "name": "NetM Token",
+      "symbol": "NTMX",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_NTMX.png"
     },
     {
       "address": "0x1a8Dbe5958c597a744Ba51763AbEBD3355996c3e",
