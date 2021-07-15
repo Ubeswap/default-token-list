@@ -10,6 +10,11 @@
     "symbol": "UBE"
   },
   {
+    "address": "0x123ED050805E0998EBEf43671327139224218e50",
+    "name": "NetM Token",
+    "symbol": "NTMX"
+  },
+  {
     "address": "0x1a8Dbe5958c597a744Ba51763AbEBD3355996c3e",
     "name": "Rewards CELO",
     "symbol": "rCELO"
