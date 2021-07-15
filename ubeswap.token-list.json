@@ -2,8 +2,16 @@
   "name": "Ubeswap",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-07-03T10:03:46.025Z",
+  "timestamp": "2021-07-15T17:35:25.866Z",
   "tokens": [
+    {
+      "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
+      "name": "Poof Governance Token",
+      "symbol": "POOF",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_POOF.png"
+    },
     {
       "address": "0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC",
       "name": "Ubeswap",
@@ -11,6 +19,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_UBE.png"
+    },
+    {
+      "address": "0x123ED050805E0998EBEf43671327139224218e50",
+      "name": "NetM Token",
+      "symbol": "NTMX",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_NTMX.png"
     },
     {
       "address": "0x1a8Dbe5958c597a744Ba51763AbEBD3355996c3e",
@@ -27,6 +43,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_sCELO.png"
+    },
+    {
+      "address": "0x2DEf4285787d58a2f811AF24755A8150622f4361",
+      "name": "Wrapped Ethereum",
+      "symbol": "cETH",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cETH.svg"
     },
     {
       "address": "0x32A9FE697a32135BFd313a6Ac28792DaE4D9979d",
@@ -112,6 +136,6 @@
   "version": {
     "major": 3,
     "minor": 3,
-    "patch": 2
+    "patch": 3
   }
 }
