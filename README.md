@@ -1,6 +1,6 @@
 # Ubeswap Token List
 
-Official token list of Ubeswap.
+Official token list of [Ubeswap](https://ubeswap.org).
 
 ## Contributing
 
