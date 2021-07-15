@@ -20,6 +20,11 @@
     "symbol": "mcEUR"
   },
   {
+    "address": "0x4d8BF8347600f5207bfdad57363fBa802C9C2031",
+    "name": "Marzipan Finance",
+    "symbol": "MZPN"
+  },
+  {
     "address": "0x71DB38719f9113A36e14F409bAD4F07B58b4730b",
     "name": "Moola cUSD",
     "symbol": "mcUSD"
