@@ -21,7 +21,7 @@ const newSchema: Schema = deepmerge(schema, {
           pattern: "^[ \\w.'+\\-%/À-ÖØ-öø-ÿ:]+$",
         },
         tags: {
-          maxItems: schema.definitions.TokenInfo.properties.tags.maxLength,
+          maxItems: schema.definitions.TokenInfo.properties.tags.maxItems,
         },
       },
     },
