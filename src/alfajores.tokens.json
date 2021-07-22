@@ -15,6 +15,11 @@
     "symbol": "NTMX"
   },
   {
+    "address": "0x17700282592D6917F6A73D0bF8AcCf4D578c131e",
+    "name": "Moola",
+    "symbol": "MOO"
+  },
+  {
     "address": "0x32974C7335e649932b5766c5aE15595aFC269160",
     "name": "Moola cEUR",
     "symbol": "mcEUR"

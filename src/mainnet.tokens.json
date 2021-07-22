@@ -15,6 +15,11 @@
     "symbol": "NTMX"
   },
   {
+    "address": "0x17700282592D6917F6A73D0bF8AcCf4D578c131e",
+    "name": "Moola",
+    "symbol": "MOO"
+  },
+  {
     "address": "0x1a8Dbe5958c597a744Ba51763AbEBD3355996c3e",
     "name": "Rewards CELO",
     "symbol": "rCELO"
