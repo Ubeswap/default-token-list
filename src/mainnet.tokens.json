@@ -9,6 +9,11 @@
     "name": "Ubeswap",
     "symbol": "UBE"
   },
+    {
+    "address": "0xBa647Ff9B1032cA3aA7F7Cc9e33D55785f49CD8e",
+    "name": "Lapis Utility Token",
+    "symbol": "LAPIS"
+  },
   {
     "address": "0x123ED050805E0998EBEf43671327139224218e50",
     "name": "NetM Token",
