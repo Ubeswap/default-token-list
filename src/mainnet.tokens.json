@@ -87,6 +87,11 @@
     "symbol": "mcEUR"
   },
   {
+    "address": "0xBa647Ff9B1032cA3aA7F7Cc9e33D55785f49CD8e",
+    "name": "Lapis Utility Token",
+    "symbol": "LAPIS"
+  },
+  {
     "address": "0xD629eb00dEced2a080B7EC630eF6aC117e614f1b",
     "name": "Wrapped Bitcoin",
     "symbol": "cBTC"
