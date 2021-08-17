@@ -15,6 +15,11 @@
     "symbol": "NTMX"
   },
   {
+    "address": "0x18414Ce6dAece0365f935F3e78A7C1993e77d8Cd",
+    "name": "Lapis Utility Token",
+    "symbol": "LAPIS"
+  },
+  {
     "address": "0x17700282592D6917F6A73D0bF8AcCf4D578c131e",
     "name": "Moola",
     "symbol": "MOO"
