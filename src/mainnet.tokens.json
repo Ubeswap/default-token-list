@@ -30,12 +30,6 @@
     "symbol": "rCELO"
   },
   {
-    "address": "0x22401536505dd5d85F7d57f8B37172feDa8f499d",
-    "name": "CeloShiba",
-    "symbol": "cSHIBA",
-    "isExperimental": true
-  },
-  {
     "address": "0x2879BFD5e7c4EF331384E908aaA3Bd3014b703fA",
     "name": "Savings CELO",
     "symbol": "sCELO"
@@ -84,7 +78,8 @@
   {
     "address": "0x9Ee153D4Fdf0E3222eFD092c442ebB21DFd346AC",
     "name": "Marzipan Finance",
-    "symbol": "MZPN"
+    "symbol": "MZPN",
+    "isExperimental": true
   },
   {
     "address": "0xa8d0E6799FF3Fd19c6459bf02689aE09c4d78Ba7",
@@ -100,11 +95,5 @@
     "address": "0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73",
     "name": "Celo Euro",
     "symbol": "cEUR"
-  },
-  {
-    "address": "0xD90BBdf5904cb7d275c41f897495109B9A5adA58",
-    "name": "CeloDoge",
-    "symbol": "cDOGE",
-    "isExperimental": true
   }
 ]

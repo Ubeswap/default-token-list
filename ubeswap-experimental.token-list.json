@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-08-17T13:27:42.175Z",
+  "timestamp": "2021-08-30T18:54:00.174Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -173,14 +173,6 @@
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_rCELO.png"
     },
     {
-      "address": "0x22401536505dd5d85F7d57f8B37172feDa8f499d",
-      "name": "CeloShiba",
-      "symbol": "cSHIBA",
-      "chainId": 42220,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cSHIBA.png"
-    },
-    {
       "address": "0x2879BFD5e7c4EF331384E908aaA3Bd3014b703fA",
       "name": "Savings CELO",
       "symbol": "sCELO",
@@ -283,14 +275,6 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cEUR.png"
-    },
-    {
-      "address": "0xD90BBdf5904cb7d275c41f897495109B9A5adA58",
-      "name": "CeloDoge",
-      "symbol": "cDOGE",
-      "chainId": 42220,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cDOGE.png"
     }
   ],
   "version": {
