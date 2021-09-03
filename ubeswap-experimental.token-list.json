@@ -1,8 +1,8 @@
 {
-  "name": "Ubeswap Experimental",
+  "name": "Unknown List",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-08-31T02:30:08.505Z",
+  "timestamp": "2021-09-03T14:03:47.461Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -291,6 +291,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cDOGE.png"
+    },
+    {
+      "address": "0xDB452CC669D3Ae454226AbF232Fe211bAfF2a1F9",
+      "name": "Duino-Coin on Celo",
+      "symbol": "celoDUCO",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_celoDUCO.png"
     }
   ],
   "version": {
