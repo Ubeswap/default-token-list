@@ -1,6 +1,6 @@
 {
   "name": "@ubeswap/default-token-list",
-  "version": "3.3.7",
+  "version": "3.3.8",
   "description": "Ubeswap default token list",
   "main": "ubeswap.token-list.json",
   "repository": "git@github.com:ubeswap/default-token-list.git",
