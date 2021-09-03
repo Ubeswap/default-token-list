@@ -1,8 +1,8 @@
 {
-  "name": "Unknown List",
+  "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-09-03T14:03:47.461Z",
+  "timestamp": "2021-09-03T14:30:44.868Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
