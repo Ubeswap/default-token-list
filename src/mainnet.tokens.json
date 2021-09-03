@@ -107,5 +107,11 @@
     "name": "CeloDoge",
     "symbol": "cDOGE",
     "isExperimental": true
+  },
+  {
+    "address": "0xDB452CC669D3Ae454226AbF232Fe211bAfF2a1F9",
+    "name": "Duino-Coin on Celo",
+    "symbol": "celoDUCO",
+    "isExperimental": true
   }
 ]
