@@ -72,6 +72,11 @@
     "symbol": "mCELO"
   },
   {
+    "address": "0x73a210637f6F6B7005512677Ba6B3C96bb4AA44B",
+    "name": "Mobius DAO Token",
+    "symbol": "MOBI"
+  },
+  {
     "address": "0x765DE816845861e75A25fCA122bb6898B8B1282a",
     "name": "Celo Dollar",
     "symbol": "cUSD"

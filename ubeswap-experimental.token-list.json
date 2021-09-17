@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-09-03T14:30:44.868Z",
+  "timestamp": "2021-09-18T22:10:16.365Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -235,6 +235,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mCELO.png"
+    },
+    {
+      "address": "0x73a210637f6F6B7005512677Ba6B3C96bb4AA44B",
+      "name": "Mobius DAO Token",
+      "symbol": "MOBI",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_MOBI.png"
     },
     {
       "address": "0x765DE816845861e75A25fCA122bb6898B8B1282a",
