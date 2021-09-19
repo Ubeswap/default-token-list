@@ -21,7 +21,7 @@
   },
   {
     "address": "0x18414Ce6dAece0365f935F3e78A7C1993e77d8Cd",
-    "name": "Lapis Utility Token",
+    "name": "Sky Portal",
     "symbol": "LAPIS"
   },
   {
@@ -72,6 +72,11 @@
     "symbol": "mCELO"
   },
   {
+    "address": "0x73a210637f6F6B7005512677Ba6B3C96bb4AA44B",
+    "name": "Mobius DAO Token",
+    "symbol": "MOBI"
+  },
+  {
     "address": "0x765DE816845861e75A25fCA122bb6898B8B1282a",
     "name": "Celo Dollar",
     "symbol": "cUSD"
@@ -82,14 +87,30 @@
     "symbol": "cXOF"
   },
   {
+    "address": "0x93DB49bE12B864019dA9Cb147ba75cDC0506190e",
+    "name": "cUSDC",
+    "symbol": "cUSDC"
+  },
+  {
     "address": "0x9Ee153D4Fdf0E3222eFD092c442ebB21DFd346AC",
     "name": "Marzipan Finance",
-    "symbol": "MZPN"
+    "symbol": "MZPN",
+    "isExperimental": true
   },
   {
     "address": "0xa8d0E6799FF3Fd19c6459bf02689aE09c4d78Ba7",
     "name": "Moola cEUR",
     "symbol": "mcEUR"
+  },
+  {
+    "address": "0xBe50a3013A1c94768A1ABb78c3cB79AB28fc1aCE",
+    "name": "Wrapped Bitcoin",
+    "symbol": "WBTC"
+  },
+  {
+    "address": "0xcFFfE0c89a779c09Df3DF5624f54cDf7EF5fDd5D",
+    "name": "cUSDT",
+    "symbol": "cUSDT"
   },
   {
     "address": "0xD629eb00dEced2a080B7EC630eF6aC117e614f1b",
@@ -106,5 +127,16 @@
     "name": "CeloDoge",
     "symbol": "cDOGE",
     "isExperimental": true
+  },
+  {
+    "address": "0xDB452CC669D3Ae454226AbF232Fe211bAfF2a1F9",
+    "name": "Duino-Coin on Celo",
+    "symbol": "celoDUCO",
+    "isExperimental": true
+  },
+  {
+    "address": "0xE919F65739c26a42616b7b8eedC6b5524d1e3aC4",
+    "name": "Wrapped Ether",
+    "symbol": "WETH"
   }
 ]
