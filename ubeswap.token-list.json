@@ -2,7 +2,7 @@
   "name": "Ubeswap",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-09-18T23:50:44.758Z",
+  "timestamp": "2021-09-21T21:05:34.176Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -38,7 +38,7 @@
     },
     {
       "address": "0x18414Ce6dAece0365f935F3e78A7C1993e77d8Cd",
-      "name": "Lapis Utility Token",
+      "name": "Sky Portal",
       "symbol": "LAPIS",
       "chainId": 42220,
       "decimals": 18,
@@ -125,6 +125,14 @@
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cUSD.png"
     },
     {
+      "address": "0x7c64aD5F9804458B8c9F93f7300c15D55956Ac2a",
+      "name": "Symmetric",
+      "symbol": "SYMM",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_SYMM.png"
+    },
+    {
       "address": "0x832F03bCeE999a577cb592948983E35C048B5Aa4",
       "name": "Duniapay West African CFA franc",
       "symbol": "cXOF",
@@ -190,8 +198,8 @@
     }
   ],
   "version": {
-    "major": 3,
-    "minor": 3,
-    "patch": 9
+    "major": 4,
+    "minor": 0,
+    "patch": 2
   }
 }

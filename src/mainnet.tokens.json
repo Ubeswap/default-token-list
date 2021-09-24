@@ -21,7 +21,7 @@
   },
   {
     "address": "0x18414Ce6dAece0365f935F3e78A7C1993e77d8Cd",
-    "name": "Lapis Utility Token",
+    "name": "Sky Portal",
     "symbol": "LAPIS"
   },
   {
@@ -82,6 +82,11 @@
     "symbol": "cUSD"
   },
   {
+    "address": "0x7c64aD5F9804458B8c9F93f7300c15D55956Ac2a",
+    "name": "Symmetric",
+    "symbol": "SYMM"
+  },
+  {
     "address": "0x832F03bCeE999a577cb592948983E35C048B5Aa4",
     "name": "Duniapay West African CFA franc",
     "symbol": "cXOF"
@@ -105,7 +110,8 @@
   {
     "address": "0xBe50a3013A1c94768A1ABb78c3cB79AB28fc1aCE",
     "name": "Wrapped Bitcoin",
-    "symbol": "WBTC"
+    "symbol": "WBTC",
+    "decimals": 8
   },
   {
     "address": "0xcFFfE0c89a779c09Df3DF5624f54cDf7EF5fDd5D",
