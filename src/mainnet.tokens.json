@@ -110,7 +110,8 @@
   {
     "address": "0xBe50a3013A1c94768A1ABb78c3cB79AB28fc1aCE",
     "name": "Wrapped Bitcoin",
-    "symbol": "WBTC"
+    "symbol": "WBTC",
+    "decimals": 8
   },
   {
     "address": "0xcFFfE0c89a779c09Df3DF5624f54cDf7EF5fDd5D",
