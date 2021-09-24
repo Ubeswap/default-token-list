@@ -2,7 +2,7 @@
   "name": "Ubeswap",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-09-21T21:05:34.176Z",
+  "timestamp": "2021-09-24T14:29:44.415Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -160,8 +160,8 @@
       "address": "0xBe50a3013A1c94768A1ABb78c3cB79AB28fc1aCE",
       "name": "Wrapped Bitcoin",
       "symbol": "WBTC",
+      "decimals": 8,
       "chainId": 42220,
-      "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_WBTC.png"
     },
     {
