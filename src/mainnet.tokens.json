@@ -108,6 +108,11 @@
     "symbol": "mcEUR"
   },
   {
+    "address": "0xB4D0E4Aa5d953823Ed4286347630d8AA3c353105",
+    "name": "HAREM Token",
+    "symbol": "HAREM"
+  },
+  {
     "address": "0xBe50a3013A1c94768A1ABb78c3cB79AB28fc1aCE",
     "name": "Wrapped Bitcoin",
     "symbol": "WBTC",
@@ -144,10 +149,5 @@
     "address": "0xE919F65739c26a42616b7b8eedC6b5524d1e3aC4",
     "name": "Wrapped Ether",
     "symbol": "WETH"
-  },
-  {
-    "address": "0xB4D0E4Aa5d953823Ed4286347630d8AA3c353105",
-    "name": "HAREM Token",
-    "symbol": "HAREM"
   }
 ]
