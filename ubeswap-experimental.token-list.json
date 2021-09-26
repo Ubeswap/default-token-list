@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-09-24T14:29:44.415Z",
+  "timestamp": "2021-09-26T05:50:23.126Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -291,6 +291,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcEUR.png"
+    },
+    {
+      "address": "0xB4D0E4Aa5d953823Ed4286347630d8AA3c353105",
+      "name": "HAREM Token",
+      "symbol": "HAREM",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_HAREM.png"
     },
     {
       "address": "0xBe50a3013A1c94768A1ABb78c3cB79AB28fc1aCE",
