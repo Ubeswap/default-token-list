@@ -41,6 +41,12 @@
     "symbol": "sCELO"
   },
   {
+    "address": "0x2A3684e9Dc20B857375EA04235F2F7edBe818FA7",
+    "name": "Optics USDC",
+    "symbol": "USDC",
+    "decimals": 6
+  },
+  {
     "address": "0x2DEf4285787d58a2f811AF24755A8150622f4361",
     "name": "Wrapped Ethereum",
     "symbol": "cETH",
@@ -95,12 +101,6 @@
     "address": "0x93DB49bE12B864019dA9Cb147ba75cDC0506190e",
     "name": "Moss USDC",
     "symbol": "cUSDC"
-  },
-  {
-    "address": "0x93DB49bE12B864019dA9Cb147ba75cDC0506190e",
-    "name": "Optics USDC",
-    "symbol": "USDC",
-    "decimals": 6
   },
   {
     "address": "0x9Ee153D4Fdf0E3222eFD092c442ebB21DFd346AC",
