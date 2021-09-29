@@ -2,7 +2,7 @@
   "name": "Ubeswap",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-09-28T22:32:06.962Z",
+  "timestamp": "2021-09-29T00:50:10.004Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -165,6 +165,14 @@
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcEUR.png"
     },
     {
+      "address": "0xb020D981420744F6b0FedD22bB67cd37Ce18a1d5",
+      "name": "Optics USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_USDT.png"
+    },
+    {
       "address": "0xBe50a3013A1c94768A1ABb78c3cB79AB28fc1aCE",
       "name": "Optics WBTC",
       "symbol": "WBTC",
@@ -195,6 +203,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cEUR.png"
+    },
+    {
+      "address": "0xE4fE50cdD716522A56204352f00AA110F731932d",
+      "name": "Optics DAI",
+      "symbol": "DAI",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_DAI.png"
     },
     {
       "address": "0xE919F65739c26a42616b7b8eedC6b5524d1e3aC4",
