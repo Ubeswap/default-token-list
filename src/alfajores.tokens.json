@@ -10,6 +10,11 @@
     "symbol": "cEUR"
   },
   {
+    "address": "0xc46f82C497BB3A3624cE11F829B298d7668b04Db",
+    "name": "DuniaPay CFA",
+    "symbol": "cXOF"
+  },
+  {
     "address": "0x123ED050805E0998EBEf43671327139224218e50",
     "name": "NetM Token",
     "symbol": "NTMX"

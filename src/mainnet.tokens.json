@@ -10,6 +10,11 @@
     "symbol": "UBE"
   },
   {
+    "address": "0x832F03bCeE999a577cb592948983E35C048B5Aa4",
+    "name": "DuniaPay CFA",
+    "symbol": "cXOF"
+  },
+  {
     "address": "0x123ED050805E0998EBEf43671327139224218e50",
     "name": "NetM Token",
     "symbol": "NTMX"
