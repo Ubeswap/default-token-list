@@ -99,7 +99,7 @@
   },
   {
     "address": "0x93DB49bE12B864019dA9Cb147ba75cDC0506190e",
-    "name": "Moss USDC (DEPRECATED)",
+    "name": "Moss USDC [DEPRECATED]",
     "symbol": "cUSDC",
     "isExperimental": true
   },
@@ -128,7 +128,7 @@
   },
   {
     "address": "0xcFFfE0c89a779c09Df3DF5624f54cDf7EF5fDd5D",
-    "name": "Moss USDT (DEPRECATED)",
+    "name": "Moss USDT [DEPRECATED]",
     "symbol": "cUSDT",
     "isExperimental": true
   },
