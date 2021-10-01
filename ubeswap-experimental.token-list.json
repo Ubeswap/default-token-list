@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-10-01T01:31:22.007Z",
+  "timestamp": "2021-10-01T22:01:38.844Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -91,6 +91,14 @@
       "chainId": 44787,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_rCELO.png"
+    },
+    {
+      "address": "0xc46f82C497BB3A3624cE11F829B298d7668b04Db",
+      "name": "DuniaPay CFA",
+      "symbol": "cXOF",
+      "chainId": 44787,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cXOF.png"
     },
     {
       "address": "0xF194afDf50B03e69Bd7D057c1Aa9e10c9954E4C9",
@@ -267,6 +275,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_SYMM.png"
+    },
+    {
+      "address": "0x832F03bCeE999a577cb592948983E35C048B5Aa4",
+      "name": "DuniaPay CFA",
+      "symbol": "cXOF",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cXOF.png"
     },
     {
       "address": "0x832F03bCeE999a577cb592948983E35C048B5Aa4",

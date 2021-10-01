@@ -94,6 +94,11 @@
   },
   {
     "address": "0x832F03bCeE999a577cb592948983E35C048B5Aa4",
+    "name": "DuniaPay CFA",
+    "symbol": "cXOF"
+  },
+  {
+    "address": "0x832F03bCeE999a577cb592948983E35C048B5Aa4",
     "name": "Duniapay West African CFA franc",
     "symbol": "cXOF"
   },
