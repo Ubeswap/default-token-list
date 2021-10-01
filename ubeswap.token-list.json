@@ -2,7 +2,7 @@
   "name": "Ubeswap",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-08-17T11:37:16.818Z",
+  "timestamp": "2021-10-01T14:49:57.489Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -109,8 +109,8 @@
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cUSD.png"
     },
     {
-      "address": "0x0b1E7d460ADfD66296aeA36cB3532b9202D0453d",
-      "name": "Duniapay West African CFA francs",
+      "address": "0x832F03bCeE999a577cb592948983E35C048B5Aa4",
+      "name": "Duniapay West African CFA franc",
       "symbol": "cXOF",
       "chainId": 42220,
       "decimals": 18,
