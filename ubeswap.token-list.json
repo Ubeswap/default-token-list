@@ -141,8 +141,8 @@
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_SYMM.png"
     },
     {
-      "address": "0x832F03bCeE999a577cb592948983E35C048B5Aa4",
-      "name": "Duniapay West African CFA franc",
+      "address": "0xc46f82C497BB3A3624cE11F829B298d7668b04Db",
+      "name": "DuniaPay West Africa CFA francs",
       "symbol": "cXOF",
       "chainId": 42220,
       "decimals": 18,
