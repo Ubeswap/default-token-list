@@ -15,6 +15,11 @@
     "symbol": "NTMX"
   },
   {
+    "address": "0x173234922eB27d5138c5e481be9dF5261fAeD450",
+    "name": "Allbridge SOL",
+    "symbol": "aSOL"
+  },
+  {
     "address": "0x17700282592D6917F6A73D0bF8AcCf4D578c131e",
     "name": "Moola",
     "symbol": "MOO"
@@ -66,6 +71,11 @@
     "address": "0x471EcE3750Da237f93B8E339c536989b8978a438",
     "name": "Celo",
     "symbol": "CELO"
+  },
+  {
+    "address": "0x47264aE1Fc0c8e6418ebe78630718E11a07346A8",
+    "name": "Allbridge SBR",
+    "symbol": "aSBR"
   },
   {
     "address": "0x64dEFa3544c695db8c535D289d843a189aa26b98",
