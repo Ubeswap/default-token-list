@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-10-06T15:32:25.527Z",
+  "timestamp": "2021-10-07T18:26:40.583Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -151,10 +151,10 @@
     {
       "address": "0x173234922eB27d5138c5e481be9dF5261fAeD450",
       "name": "Allbridge SOL",
-      "symbol": "aSOL",
+      "symbol": "SOL",
       "chainId": 42220,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_aSOL.png"
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_SOL.png"
     },
     {
       "address": "0x17700282592D6917F6A73D0bF8AcCf4D578c131e",
@@ -239,10 +239,10 @@
     {
       "address": "0x47264aE1Fc0c8e6418ebe78630718E11a07346A8",
       "name": "Allbridge SBR",
-      "symbol": "aSBR",
+      "symbol": "SBR",
       "chainId": 42220,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_aSBR.png"
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_SBR.png"
     },
     {
       "address": "0x64dEFa3544c695db8c535D289d843a189aa26b98",
