@@ -83,6 +83,16 @@
     "symbol": "mcUSD"
   },
   {
+    "address": "0x691e6877271675eaf372a9dBcDf4b39eb8c06d69",
+    "name": "Poof USD",
+    "symbol": "pUSD"
+  },
+  {
+    "address": "0x6c2457fdbCb6992659f28E1CbBF08EF9258F7f00",
+    "name": "Poof CELO",
+    "symbol": "pCELO"
+  },
+  {
     "address": "0x7037F7296B2fc7908de7b57a89efaa8319f0C500",
     "name": "Moola CELO",
     "symbol": "mCELO"
@@ -135,6 +145,11 @@
     "name": "Optics WBTC",
     "symbol": "WBTC",
     "decimals": 8
+  },
+  {
+    "address": "0xc8176fA282F60b1dfB5b82bE9cd8dF782e6B641F",
+    "name": "Poof EUR",
+    "symbol": "pEUR"
   },
   {
     "address": "0xcFFfE0c89a779c09Df3DF5624f54cDf7EF5fDd5D",

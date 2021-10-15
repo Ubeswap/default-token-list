@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-10-07T18:26:40.583Z",
+  "timestamp": "2021-10-15T13:41:26.587Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -253,6 +253,22 @@
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcUSD.png"
     },
     {
+      "address": "0x691e6877271675eaf372a9dBcDf4b39eb8c06d69",
+      "name": "Poof USD",
+      "symbol": "pUSD",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pUSD.png"
+    },
+    {
+      "address": "0x6c2457fdbCb6992659f28E1CbBF08EF9258F7f00",
+      "name": "Poof CELO",
+      "symbol": "pCELO",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pCELO.png"
+    },
+    {
       "address": "0x7037F7296B2fc7908de7b57a89efaa8319f0C500",
       "name": "Moola CELO",
       "symbol": "mCELO",
@@ -331,6 +347,14 @@
       "decimals": 8,
       "chainId": 42220,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_WBTC.png"
+    },
+    {
+      "address": "0xc8176fA282F60b1dfB5b82bE9cd8dF782e6B641F",
+      "name": "Poof EUR",
+      "symbol": "pEUR",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pEUR.png"
     },
     {
       "address": "0xcFFfE0c89a779c09Df3DF5624f54cDf7EF5fDd5D",
