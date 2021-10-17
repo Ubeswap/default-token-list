@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-10-16T17:31:51.298Z",
+  "timestamp": "2021-10-17T03:40:33.998Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -253,15 +253,7 @@
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcUSD.png"
     },
     {
-      "address": "0x691e6877271675eaf372a9dBcDf4b39eb8c06d69",
-      "name": "Poof USD",
-      "symbol": "pUSD",
-      "chainId": 42220,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pUSD.png"
-    },
-    {
-      "address": "0x6c2457fdbCb6992659f28E1CbBF08EF9258F7f00",
+      "address": "0x7015A9e168a2Dc8Ef2afdABb7dD3b47F8E83d07A",
       "name": "Poof CELO",
       "symbol": "pCELO",
       "chainId": 42220,
@@ -341,20 +333,28 @@
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_USDT.png"
     },
     {
+      "address": "0xb789eB26B60585D91BafD8927189cc17b820D3C2",
+      "name": "Poof EUR",
+      "symbol": "pEUR",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pEUR.png"
+    },
+    {
+      "address": "0xba13bD87671fA4Ff861D1dE16F751784027be09b",
+      "name": "Poof USD",
+      "symbol": "pUSD",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pUSD.png"
+    },
+    {
       "address": "0xBe50a3013A1c94768A1ABb78c3cB79AB28fc1aCE",
       "name": "Optics WBTC",
       "symbol": "WBTC",
       "decimals": 8,
       "chainId": 42220,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_WBTC.png"
-    },
-    {
-      "address": "0xc8176fA282F60b1dfB5b82bE9cd8dF782e6B641F",
-      "name": "Poof EUR",
-      "symbol": "pEUR",
-      "chainId": 42220,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pEUR.png"
     },
     {
       "address": "0xcFFfE0c89a779c09Df3DF5624f54cDf7EF5fDd5D",
