@@ -125,6 +125,11 @@
     "isExperimental": true
   },
   {
+    "address": "0xa81D9a2d29373777E4082d588958678a6Df5645c",
+    "name": "KnoxEdge",
+    "symbol": "KNX"
+  },
+  {
     "address": "0xa8d0E6799FF3Fd19c6459bf02689aE09c4d78Ba7",
     "name": "Moola cEUR",
     "symbol": "mcEUR"
