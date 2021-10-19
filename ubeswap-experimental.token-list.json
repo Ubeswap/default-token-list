@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2022-02-07T18:40:57.193Z",
+  "timestamp": "2022-02-23T22:30:01.056Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -171,14 +171,6 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_UBE.png"
-    },
-    {
-      "address": "0x035eE610693a29Cb77fD6eFBEb9d9d278703e145",
-      "name": "TrueFeedBack",
-      "symbol": "TFBX",
-      "chainId": 42220,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_TFBX.png"
     },
     {
       "address": "0x0a60c25Ef6021fC3B479914E6bcA7C03c18A97f1",
@@ -563,6 +555,22 @@
       "decimals": 8,
       "chainId": 42220,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_WBTC.png"
+    },
+    {
+      "address": "0xbDd31EFfb9E9f7509fEaAc5B4091b31645A47e4b",
+      "name": "TrueFeedBack New",
+      "symbol": "TFBX",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_TFBX.png"
+    },
+    {
+      "address": "0xbDd31EFfb9E9f7509fEaAc5B4091b31645A47e4b",
+      "name": "TrueFeedBack Old",
+      "symbol": "TFBX",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_TFBX.png"
     },
     {
       "address": "0xBe50a3013A1c94768A1ABb78c3cB79AB28fc1aCE",
