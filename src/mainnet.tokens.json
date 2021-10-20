@@ -10,6 +10,7 @@
     "symbol": "UBE"
   },
   {
+<<<<<<< HEAD
     "address": "0x0a60c25Ef6021fC3B479914E6bcA7C03c18A97f1",
     "name": "Stabilite USD",
     "symbol": "stabilUSD"
@@ -23,6 +24,11 @@
     "address": "0x122013fd7dF1C6F636a5bb8f03108E876548b455",
     "name": "Optics v2 WETH",
     "symbol": "WETH"
+=======
+    "address": "0x035eE610693a29Cb77fD6eFBEb9d9d278703e145",
+    "name": "TrueFeedBack",
+    "symbol": "TFBX"
+>>>>>>> 6d405d9 (update TFBX contract address)
   },
   {
     "address": "0x123ED050805E0998EBEf43671327139224218e50",
