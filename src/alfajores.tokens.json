@@ -27,7 +27,7 @@
   {
     "address": "0x32974C7335e649932b5766c5aE15595aFC269160",
     "name": "Moola cEUR DEPRECATED",
-    "symbol": "mcEUR_OLD"
+    "symbol": "mcEURxOLD"
   },
   {
     "address": "0x3a0EA4e0806805527C750AB9b34382642448468D",
@@ -47,12 +47,12 @@
   {
     "address": "0x71DB38719f9113A36e14F409bAD4F07B58b4730b",
     "name": "Moola cUSD DEPRECATED",
-    "symbol": "mcUSD_OLD"
+    "symbol": "mcUSDxOLD"
   },
   {
     "address": "0x86f61EB83e10e914fc6F321F5dD3c2dD4860a003",
     "name": "Moola CELO DEPRECATED",
-    "symbol": "mCELO_OLD"
+    "symbol": "mCELOxOLD"
   },
   {
     "address": "0x874069Fa1Eb16D44d622F2e0Ca25eeA172369bC1",

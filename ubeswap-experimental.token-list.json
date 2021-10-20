@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-10-20T17:40:51.887Z",
+  "timestamp": "2021-10-20T17:44:10.685Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -47,10 +47,10 @@
     {
       "address": "0x32974C7335e649932b5766c5aE15595aFC269160",
       "name": "Moola cEUR DEPRECATED",
-      "symbol": "mcEUR_OLD",
+      "symbol": "mcEURxOLD",
       "chainId": 44787,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcEUR_OLD.png"
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcEURxOLD.png"
     },
     {
       "address": "0x3a0EA4e0806805527C750AB9b34382642448468D",
@@ -79,18 +79,18 @@
     {
       "address": "0x71DB38719f9113A36e14F409bAD4F07B58b4730b",
       "name": "Moola cUSD DEPRECATED",
-      "symbol": "mcUSD_OLD",
+      "symbol": "mcUSDxOLD",
       "chainId": 44787,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcUSD_OLD.png"
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcUSDxOLD.png"
     },
     {
       "address": "0x86f61EB83e10e914fc6F321F5dD3c2dD4860a003",
       "name": "Moola CELO DEPRECATED",
-      "symbol": "mCELO_OLD",
+      "symbol": "mCELOxOLD",
       "chainId": 44787,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mCELO_OLD.png"
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mCELOxOLD.png"
     },
     {
       "address": "0x874069Fa1Eb16D44d622F2e0Ca25eeA172369bC1",
@@ -279,18 +279,18 @@
     {
       "address": "0x64dEFa3544c695db8c535D289d843a189aa26b98",
       "name": "Moola cUSD DEPRECATED",
-      "symbol": "mcUSD_OLD",
+      "symbol": "mcUSDxOLD",
       "chainId": 42220,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcUSD_OLD.png"
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcUSDxOLD.png"
     },
     {
       "address": "0x7037F7296B2fc7908de7b57a89efaa8319f0C500",
       "name": "Moola CELO DEPRECATED",
-      "symbol": "mCELO_OLD",
+      "symbol": "mCELOxOLD",
       "chainId": 42220,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mCELO_OLD.png"
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mCELOxOLD.png"
     },
     {
       "address": "0x73a210637f6F6B7005512677Ba6B3C96bb4AA44B",
@@ -367,10 +367,10 @@
     {
       "address": "0xa8d0E6799FF3Fd19c6459bf02689aE09c4d78Ba7",
       "name": "Moola cEUR DEPRECATED",
-      "symbol": "mcEUR_OLD",
+      "symbol": "mcEURxOLD",
       "chainId": 42220,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcEUR_OLD.png"
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcEURxOLD.png"
     },
     {
       "address": "0xb020D981420744F6b0FedD22bB67cd37Ce18a1d5",

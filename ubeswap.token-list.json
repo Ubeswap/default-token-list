@@ -2,7 +2,7 @@
   "name": "Ubeswap",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-10-20T17:40:51.886Z",
+  "timestamp": "2021-10-20T17:44:10.685Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -119,18 +119,18 @@
     {
       "address": "0x64dEFa3544c695db8c535D289d843a189aa26b98",
       "name": "Moola cUSD DEPRECATED",
-      "symbol": "mcUSD_OLD",
+      "symbol": "mcUSDxOLD",
       "chainId": 42220,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcUSD_OLD.png"
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcUSDxOLD.png"
     },
     {
       "address": "0x7037F7296B2fc7908de7b57a89efaa8319f0C500",
       "name": "Moola CELO DEPRECATED",
-      "symbol": "mCELO_OLD",
+      "symbol": "mCELOxOLD",
       "chainId": 42220,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mCELO_OLD.png"
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mCELOxOLD.png"
     },
     {
       "address": "0x73a210637f6F6B7005512677Ba6B3C96bb4AA44B",
@@ -191,10 +191,10 @@
     {
       "address": "0xa8d0E6799FF3Fd19c6459bf02689aE09c4d78Ba7",
       "name": "Moola cEUR DEPRECATED",
-      "symbol": "mcEUR_OLD",
+      "symbol": "mcEURxOLD",
       "chainId": 42220,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcEUR_OLD.png"
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcEURxOLD.png"
     },
     {
       "address": "0xb020D981420744F6b0FedD22bB67cd37Ce18a1d5",

@@ -86,12 +86,12 @@
   {
     "address": "0x64dEFa3544c695db8c535D289d843a189aa26b98",
     "name": "Moola cUSD DEPRECATED",
-    "symbol": "mcUSD_OLD"
+    "symbol": "mcUSDxOLD"
   },
   {
     "address": "0x7037F7296B2fc7908de7b57a89efaa8319f0C500",
     "name": "Moola CELO DEPRECATED",
-    "symbol": "mCELO_OLD"
+    "symbol": "mCELOxOLD"
   },
   {
     "address": "0x73a210637f6F6B7005512677Ba6B3C96bb4AA44B",
@@ -143,7 +143,7 @@
   {
     "address": "0xa8d0E6799FF3Fd19c6459bf02689aE09c4d78Ba7",
     "name": "Moola cEUR DEPRECATED",
-    "symbol": "mcEUR_OLD"
+    "symbol": "mcEURxOLD"
   },
   {
     "address": "0xb020D981420744F6b0FedD22bB67cd37Ce18a1d5",
