@@ -194,5 +194,22 @@
     "address": "0xE919F65739c26a42616b7b8eedC6b5524d1e3aC4",
     "name": "Optics WETH",
     "symbol": "WETH"
+  },
+  {
+    "address": "0x918146359264c492bd6934071c6bd31c854edbc3",
+    "name": "mcUSD",
+    "symbol": "mcUSD"
+  },
+  
+  {
+    "address": "0xe273ad7ee11dcfaa87383ad5977ee1504ac07568",
+    "name": "mcEUR",
+    "symbol": "mcEUR"
+  },
+  
+  {
+    "address": "0x7d00cd74ff385c955ea3d79e47bf06bd7386387d",
+    "name": "mCELO",
+    "symbol": "mCELO"
   }
 ]
