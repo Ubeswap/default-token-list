@@ -2,7 +2,7 @@
   "name": "Ubeswap",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-10-20T17:44:10.685Z",
+  "timestamp": "2021-10-21T13:20:09.436Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -19,6 +19,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_UBE.png"
+    },
+    {
+      "address": "0x035eE610693a29Cb77fD6eFBEb9d9d278703e145",
+      "name": "TrueFeedBack",
+      "symbol": "TFBX",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_TFBX.png"
     },
     {
       "address": "0x123ED050805E0998EBEf43671327139224218e50",
