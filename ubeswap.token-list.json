@@ -117,28 +117,28 @@
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_SBR.png"
     },
     {
-      "address": "0x64dEFa3544c695db8c535D289d843a189aa26b98",
-      "name": "Moola cUSD",
-      "symbol": "mcUSD",
+      "address": "0x56072D4832642dB29225dA12d6Fd1290E4744682",
+      "name": "Poof EUR",
+      "symbol": "pEUR",
       "chainId": 42220,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcUSD.png"
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pEUR.png"
     },
     {
-      "address": "0x7015A9e168a2Dc8Ef2afdABb7dD3b47F8E83d07A",
-      "name": "Poof CELO",
-      "symbol": "pCELO",
+      "address": "0x64dEFa3544c695db8c535D289d843a189aa26b98",
+      "name": "Moola cUSD DEPRECATED",
+      "symbol": "mcUSDxOLD",
       "chainId": 42220,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pCELO.png"
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcUSDxOLD.png"
     },
     {
       "address": "0x7037F7296B2fc7908de7b57a89efaa8319f0C500",
-      "name": "Moola CELO",
-      "symbol": "mCELO",
+      "name": "Moola CELO DEPRECATED",
+      "symbol": "mCELOxOLD",
       "chainId": 42220,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mCELO.png"
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mCELOxOLD.png"
     },
     {
       "address": "0x73a210637f6F6B7005512677Ba6B3C96bb4AA44B",
@@ -165,12 +165,28 @@
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_SYMM.png"
     },
     {
+      "address": "0x7D00cd74FF385c955EA3d79e47BF06bD7386387D",
+      "name": "Moola CELO",
+      "symbol": "mCELO",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mCELO.png"
+    },
+    {
       "address": "0x832F03bCeE999a577cb592948983E35C048B5Aa4",
       "name": "Duniapay West African CFA franc",
       "symbol": "cXOF",
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cXOF.png"
+    },
+    {
+      "address": "0x918146359264C492BD6934071c6Bd31C854EDBc3",
+      "name": "Moola cUSD",
+      "symbol": "mcUSD",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcUSD.png"
     },
     {
       "address": "0xa81D9a2d29373777E4082d588958678a6Df5645c",
@@ -182,11 +198,11 @@
     },
     {
       "address": "0xa8d0E6799FF3Fd19c6459bf02689aE09c4d78Ba7",
-      "name": "Moola cEUR",
-      "symbol": "mcEUR",
+      "name": "Moola cEUR DEPRECATED",
+      "symbol": "mcEURxOLD",
       "chainId": 42220,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcEUR.png"
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcEURxOLD.png"
     },
     {
       "address": "0xb020D981420744F6b0FedD22bB67cd37Ce18a1d5",
@@ -197,15 +213,7 @@
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_USDT.png"
     },
     {
-      "address": "0xb789eB26B60585D91BafD8927189cc17b820D3C2",
-      "name": "Poof EUR",
-      "symbol": "pEUR",
-      "chainId": 42220,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pEUR.png"
-    },
-    {
-      "address": "0xba13bD87671fA4Ff861D1dE16F751784027be09b",
+      "address": "0xB4aa2986622249B1F45eb93F28Cfca2b2606d809",
       "name": "Poof USD",
       "symbol": "pUSD",
       "chainId": 42220,
@@ -237,12 +245,28 @@
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cEUR.png"
     },
     {
+      "address": "0xE273Ad7ee11dCfAA87383aD5977EE1504aC07568",
+      "name": "Moola cEUR",
+      "symbol": "mcEUR",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcEUR.png"
+    },
+    {
       "address": "0xE4fE50cdD716522A56204352f00AA110F731932d",
       "name": "Optics DAI",
       "symbol": "DAI",
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_DAI.png"
+    },
+    {
+      "address": "0xE74AbF23E1Fdf7ACbec2F3a30a772eF77f1601E1",
+      "name": "Poof CELO",
+      "symbol": "pCELO",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pCELO.png"
     },
     {
       "address": "0xE919F65739c26a42616b7b8eedC6b5524d1e3aC4",
@@ -256,6 +280,6 @@
   "version": {
     "major": 4,
     "minor": 0,
-    "patch": 15
+    "patch": 17
   }
 }
