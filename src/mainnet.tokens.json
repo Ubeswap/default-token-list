@@ -30,12 +30,6 @@
     "symbol": "MOO"
   },
   {
-    "address": "0x18414Ce6dAece0365f935F3e78A7C1993e77d8Cd",
-    "name": "Sky Portal",
-    "symbol": "LAPIS",
-    "isExperimental": true
-  },
-  {
     "address": "0x1a8Dbe5958c597a744Ba51763AbEBD3355996c3e",
     "name": "Rewards CELO",
     "symbol": "rCELO"
@@ -187,6 +181,12 @@
     "address": "0xD90BBdf5904cb7d275c41f897495109B9A5adA58",
     "name": "CeloDoge",
     "symbol": "cDOGE",
+    "isExperimental": true
+  },
+  {
+    "address": "0xd954C4c006189d967507b8ba758605364eB660D2",
+    "name": "Sky Portal",
+    "symbol": "LAPIS",
     "isExperimental": true
   },
   {
