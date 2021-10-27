@@ -2,7 +2,7 @@
   "name": "Ubeswap",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-10-21T13:20:09.436Z",
+  "timestamp": "2021-10-27T22:36:13.158Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -27,6 +27,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_TFBX.png"
+    },
+    {
+      "address": "0x0a7432cF27F1aE3825c313F3C81e7D3efD7639aB",
+      "name": "Optics CRV",
+      "symbol": "CRV",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_CRV.png"
     },
     {
       "address": "0x123ED050805E0998EBEf43671327139224218e50",
@@ -115,6 +123,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_SBR.png"
+    },
+    {
+      "address": "0x503681c68f03bbbCe48005DCD7b83ae8D4fD745C",
+      "name": "Optics AAVE",
+      "symbol": "AAVE",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_AAVE.png"
     },
     {
       "address": "0x56072D4832642dB29225dA12d6Fd1290E4744682",
@@ -227,6 +243,14 @@
       "decimals": 8,
       "chainId": 42220,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_WBTC.png"
+    },
+    {
+      "address": "0xD15EC721C2A896512Ad29C671997DD68f9593226",
+      "name": "Optics SUSHI",
+      "symbol": "SUSHI",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_SUSHI.png"
     },
     {
       "address": "0xD629eb00dEced2a080B7EC630eF6aC117e614f1b",
