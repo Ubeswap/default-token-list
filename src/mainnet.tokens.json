@@ -15,6 +15,11 @@
     "symbol": "TFBX"
   },
   {
+    "address": "0x0a7432cF27F1aE3825c313F3C81e7D3efD7639aB",
+    "name": "Optics CRV",
+    "symbol": "CRV"
+  },
+  {
     "address": "0x123ED050805E0998EBEf43671327139224218e50",
     "name": "NetM Token",
     "symbol": "NTMX"
@@ -76,6 +81,11 @@
     "address": "0x47264aE1Fc0c8e6418ebe78630718E11a07346A8",
     "name": "Allbridge SBR",
     "symbol": "SBR"
+  },
+  {
+    "address": "0x503681c68f03bbbCe48005DCD7b83ae8D4fD745C",
+    "name": "Optics AAVE",
+    "symbol": "AAVE"
   },
   {
     "address": "0x56072D4832642dB29225dA12d6Fd1290E4744682",
@@ -166,6 +176,11 @@
     "name": "Moss USDT DEPRECATED",
     "symbol": "cUSDT",
     "isExperimental": true
+  },
+  {
+    "address": "0xD15EC721C2A896512Ad29C671997DD68f9593226",
+    "name": "Optics SUSHI",
+    "symbol": "SUSHI"
   },
   {
     "address": "0xD629eb00dEced2a080B7EC630eF6aC117e614f1b",
