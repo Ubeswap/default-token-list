@@ -2,11 +2,7 @@
   "name": "Ubeswap",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-<<<<<<< HEAD
-  "timestamp": "2021-10-21T13:20:09.436Z",
-=======
-  "timestamp": "2021-10-27T22:32:44.413Z",
->>>>>>> Add more optics assets
+  "timestamp": "2021-10-27T22:36:13.158Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -25,21 +21,20 @@
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_UBE.png"
     },
     {
-<<<<<<< HEAD
       "address": "0x035eE610693a29Cb77fD6eFBEb9d9d278703e145",
       "name": "TrueFeedBack",
       "symbol": "TFBX",
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_TFBX.png"
-=======
+    },
+    {
       "address": "0x0a7432cF27F1aE3825c313F3C81e7D3efD7639aB",
       "name": "Optics CRV",
       "symbol": "CRV",
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_CRV.png"
->>>>>>> Add more optics assets
     },
     {
       "address": "0x123ED050805E0998EBEf43671327139224218e50",
