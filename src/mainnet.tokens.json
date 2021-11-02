@@ -51,6 +51,11 @@
     "symbol": "sCELO"
   },
   {
+    "address": "0x29476D23322E9b7522983cbA0503bc43b2D07b7d",
+    "name": "Optics MATIC",
+    "symbol": "MATIC"
+  },
+  {
     "address": "0x2A3684e9Dc20B857375EA04235F2F7edBe818FA7",
     "name": "Optics USDC",
     "symbol": "USDC",

@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-10-27T22:36:13.158Z",
+  "timestamp": "2021-11-02T22:25:52.512Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -227,6 +227,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_sCELO.png"
+    },
+    {
+      "address": "0x29476D23322E9b7522983cbA0503bc43b2D07b7d",
+      "name": "Optics MATIC",
+      "symbol": "MATIC",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_MATIC.png"
     },
     {
       "address": "0x2A3684e9Dc20B857375EA04235F2F7edBe818FA7",
