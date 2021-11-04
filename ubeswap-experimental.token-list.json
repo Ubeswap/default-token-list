@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-11-03T17:56:42.632Z",
+  "timestamp": "2021-11-04T17:21:11.927Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -213,6 +213,14 @@
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_rCELO.png"
     },
     {
+      "address": "0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",
+      "name": "Anyswap FTM",
+      "symbol": "FTM",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_FTM.png"
+    },
+    {
       "address": "0x22401536505dd5d85F7d57f8B37172feDa8f499d",
       "name": "CeloShiba",
       "symbol": "cSHIBA",
@@ -357,6 +365,14 @@
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cXOF.png"
     },
     {
+      "address": "0x8E3670FD7B0935d3FE832711deBFE13BB689b690",
+      "name": "Allbridge AVAX",
+      "symbol": "AVAX",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_AVAX.png"
+    },
+    {
       "address": "0x918146359264C492BD6934071c6Bd31C854EDBc3",
       "name": "Moola cUSD",
       "symbol": "mcUSD",
@@ -387,6 +403,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_MZPN.png"
+    },
+    {
+      "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
+      "name": "Anyswap BNB",
+      "symbol": "BNB",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_BNB.png"
     },
     {
       "address": "0xa81D9a2d29373777E4082d588958678a6Df5645c",
