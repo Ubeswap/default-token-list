@@ -2,7 +2,7 @@
   "name": "Ubeswap",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-11-04T17:21:11.927Z",
+  "timestamp": "2021-11-04T17:47:25.034Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -85,14 +85,6 @@
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_sCELO.png"
     },
     {
-      "address": "0x29476D23322E9b7522983cbA0503bc43b2D07b7d",
-      "name": "Optics WMATIC",
-      "symbol": "WMATIC",
-      "chainId": 42220,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_WMATIC.png"
-    },
-    {
       "address": "0x2A3684e9Dc20B857375EA04235F2F7edBe818FA7",
       "name": "Optics USDC",
       "symbol": "USDC",
@@ -115,6 +107,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cMCO2.png"
+    },
+    {
+      "address": "0x3aF556B48469D2398AB7BE1563a0cfd80ea4aC84",
+      "name": "Optics WMATIC",
+      "symbol": "WMATIC",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_WMATIC.png"
     },
     {
       "address": "0x452EF5a4bD00796e62E5e5758548e0dA6e8CCDF3",
