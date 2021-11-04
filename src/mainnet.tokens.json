@@ -40,6 +40,11 @@
     "symbol": "rCELO"
   },
   {
+    "address": "0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",
+    "name": "Anyswap FTM",
+    "symbol": "FTM"
+  },
+  {
     "address": "0x22401536505dd5d85F7d57f8B37172feDa8f499d",
     "name": "CeloShiba",
     "symbol": "cSHIBA",
@@ -133,6 +138,11 @@
     "symbol": "cXOF"
   },
   {
+    "address": "0x8E3670FD7B0935d3FE832711deBFE13BB689b690",
+    "name": "Allbridge AVAX",
+    "symbol": "AVAX"
+  },
+  {
     "address": "0x918146359264C492BD6934071c6Bd31C854EDBc3",
     "name": "Moola cUSD",
     "symbol": "mcUSD"
@@ -153,6 +163,11 @@
     "name": "Marzipan Finance",
     "symbol": "MZPN",
     "isExperimental": true
+  },
+  {
+    "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
+    "name": "Anyswap BNB",
+    "symbol": "BNB"
   },
   {
     "address": "0xa81D9a2d29373777E4082d588958678a6Df5645c",
