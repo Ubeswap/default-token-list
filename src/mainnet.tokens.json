@@ -254,5 +254,10 @@
     "address": "0xE919F65739c26a42616b7b8eedC6b5524d1e3aC4",
     "name": "Optics WETH",
     "symbol": "WETH"
+  },
+  {
+    "address": "0x74c0C58B99b68cF16A717279AC2d056A34ba2bFe",
+    "name": "Source",
+    "symbol": "SOURCE"
   }
 ]
