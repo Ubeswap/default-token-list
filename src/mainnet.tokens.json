@@ -118,6 +118,11 @@
     "symbol": "MOBI"
   },
   {
+    "address": "0x74c0C58B99b68cF16A717279AC2d056A34ba2bFe",
+    "name": "Source",
+    "symbol": "SOURCE"
+  },
+  {
     "address": "0x765DE816845861e75A25fCA122bb6898B8B1282a",
     "name": "Celo Dollar",
     "symbol": "cUSD"
