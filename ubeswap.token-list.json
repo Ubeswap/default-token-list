@@ -2,7 +2,7 @@
   "name": "Ubeswap",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-11-13T20:38:33.777Z",
+  "timestamp": "2021-11-17T22:29:35.405Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -27,6 +27,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_TFBX.png"
+    },
+    {
+      "address": "0x0a60c25Ef6021fC3B479914E6bcA7C03c18A97f1",
+      "name": "Stabilite USD",
+      "symbol": "stabilUSD",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_stabilUSD.png"
     },
     {
       "address": "0x0a7432cF27F1aE3825c313F3C81e7D3efD7639aB",
