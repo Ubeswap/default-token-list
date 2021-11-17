@@ -15,6 +15,11 @@
     "symbol": "TFBX"
   },
   {
+    "address": "0x0a60c25Ef6021fC3B479914E6bcA7C03c18A97f1",
+    "name": "Stabilite USD",
+    "symbol": "stabilUSD"
+  },
+  {
     "address": "0x0a7432cF27F1aE3825c313F3C81e7D3efD7639aB",
     "name": "Optics CRV",
     "symbol": "CRV"
