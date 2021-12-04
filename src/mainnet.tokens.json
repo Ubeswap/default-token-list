@@ -21,8 +21,8 @@
   },
   {
     "address": "0x0a7432cF27F1aE3825c313F3C81e7D3efD7639aB",
-    "name": "Optics CRV",
-    "symbol": "CRV"
+    "name": "Optics v1 CRV",
+    "symbol": "CRVxV1"
   },
   {
     "address": "0x123ED050805E0998EBEf43671327139224218e50",
@@ -62,8 +62,21 @@
   },
   {
     "address": "0x2A3684e9Dc20B857375EA04235F2F7edBe818FA7",
-    "name": "Optics USDC",
+    "name": "Optics v1 USDC",
+    "symbol": "USDCxV1",
+    "decimals": 6,
+    "isExperimental": true
+  },
+  {
+    "address": "0xef4229c8c3250C675F21BCefa42f58EfbfF6002a",
+    "name": "Optics v2 USDC",
     "symbol": "USDC",
+    "decimals": 6
+  },
+  {
+    "address": "0xef4229c8c3250C675F21BCefa42f58EfbfF6002a",
+    "name": "Optics v2 USDC (via Polygon)",
+    "symbol": "pUSDC",
     "decimals": 6
   },
   {
@@ -79,7 +92,12 @@
   },
   {
     "address": "0x3aF556B48469D2398AB7BE1563a0cfd80ea4aC84",
-    "name": "Optics WMATIC",
+    "name": "Optics v1 WMATIC",
+    "symbol": "WMATICxV1"
+  },
+  {
+    "address": "0x2E3487F967DF2Ebc2f236E16f8fCAeac7091324D",
+    "name": "Optics v2 WMATIC (via Polygon)",
     "symbol": "WMATIC"
   },
   {
@@ -99,8 +117,8 @@
   },
   {
     "address": "0x503681c68f03bbbCe48005DCD7b83ae8D4fD745C",
-    "name": "Optics AAVE",
-    "symbol": "AAVE"
+    "name": "Optics v1 AAVE",
+    "symbol": "AAVExV1"
   },
   {
     "address": "0x56072D4832642dB29225dA12d6Fd1290E4744682",
@@ -191,7 +209,14 @@
   },
   {
     "address": "0xb020D981420744F6b0FedD22bB67cd37Ce18a1d5",
-    "name": "Optics USDT",
+    "name": "Optics v1 USDT",
+    "symbol": "USDTxV1",
+    "decimals": 6,
+    "isExperimental": true
+  },
+  {
+    "address": "0x88eeC49252c8cbc039DCdB394c0c2BA2f1637EA0",
+    "name": "Optics v2 USDT",
     "symbol": "USDT",
     "decimals": 6
   },
@@ -202,7 +227,14 @@
   },
   {
     "address": "0xBe50a3013A1c94768A1ABb78c3cB79AB28fc1aCE",
-    "name": "Optics WBTC",
+    "name": "Optics v1 WBTC",
+    "symbol": "WBTCxV1",
+    "decimals": 8,
+    "isExperimental": true
+  },
+  {
+    "address": "0xBAAB46E28388d2779e6E31Fd00cF0e5Ad95E327B",
+    "name": "Optics v2 WBTC",
     "symbol": "WBTC",
     "decimals": 8
   },
@@ -214,7 +246,13 @@
   },
   {
     "address": "0xD15EC721C2A896512Ad29C671997DD68f9593226",
-    "name": "Optics SUSHI",
+    "name": "Optics v1 SUSHI",
+    "symbol": "SUSHIxV1",
+    "isExperimental": true
+  },
+  {
+    "address": "0x29dFce9c22003A4999930382Fd00f9Fd6133Acd1",
+    "name": "Optics v2 SUSHI",
     "symbol": "SUSHI"
   },
   {
@@ -252,7 +290,13 @@
   },
   {
     "address": "0xE4fE50cdD716522A56204352f00AA110F731932d",
-    "name": "Optics DAI",
+    "name": "Optics v1 DAI",
+    "symbol": "DAIxV1",
+    "isExperimental": true
+  },
+  {
+    "address": "0x90Ca507a5D4458a4C6C6249d186b6dCb02a5BCCd",
+    "name": "Optics v2 DAI",
     "symbol": "DAI"
   },
   {
@@ -262,7 +306,13 @@
   },
   {
     "address": "0xE919F65739c26a42616b7b8eedC6b5524d1e3aC4",
-    "name": "Optics WETH",
+    "name": "Optics v1 WETH",
+    "symbol": "WETHxV1",
+    "isExperimental": true
+  },
+  {
+    "address": "0x122013fd7dF1C6F636a5bb8f03108E876548b455",
+    "name": "Optics v2 WETH",
     "symbol": "WETH"
   }
 ]
