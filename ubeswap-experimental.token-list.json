@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-11-17T22:29:35.405Z",
+  "timestamp": "2021-12-05T23:40:40.094Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -182,8 +182,8 @@
     },
     {
       "address": "0x0a7432cF27F1aE3825c313F3C81e7D3efD7639aB",
-      "name": "Optics CRV",
-      "symbol": "CRV",
+      "name": "Optics v1 CRV",
+      "symbol": "CRVxV1",
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_CRV.png"
@@ -246,8 +246,8 @@
     },
     {
       "address": "0x2A3684e9Dc20B857375EA04235F2F7edBe818FA7",
-      "name": "Optics USDC",
-      "symbol": "USDC",
+      "name": "Optics v1 USDC",
+      "symbol": "USDCxV1",
       "decimals": 6,
       "chainId": 42220,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_USDC.png"
@@ -270,8 +270,8 @@
     },
     {
       "address": "0x3aF556B48469D2398AB7BE1563a0cfd80ea4aC84",
-      "name": "Optics WMATIC",
-      "symbol": "WMATIC",
+      "name": "Optics v1 WMATIC",
+      "symbol": "WMATICxV1",
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_WMATIC.png"
@@ -302,8 +302,8 @@
     },
     {
       "address": "0x503681c68f03bbbCe48005DCD7b83ae8D4fD745C",
-      "name": "Optics AAVE",
-      "symbol": "AAVE",
+      "name": "Optics v1 AAVE",
+      "symbol": "AAVExV1",
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_AAVE.png"
@@ -446,8 +446,8 @@
     },
     {
       "address": "0xb020D981420744F6b0FedD22bB67cd37Ce18a1d5",
-      "name": "Optics USDT",
-      "symbol": "USDT",
+      "name": "Optics v1 USDT",
+      "symbol": "USDTxV1",
       "decimals": 6,
       "chainId": 42220,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_USDT.png"
@@ -462,8 +462,8 @@
     },
     {
       "address": "0xBe50a3013A1c94768A1ABb78c3cB79AB28fc1aCE",
-      "name": "Optics WBTC",
-      "symbol": "WBTC",
+      "name": "Optics v1 WBTC",
+      "symbol": "WBTCxV1",
       "decimals": 8,
       "chainId": 42220,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_WBTC.png"
@@ -478,8 +478,8 @@
     },
     {
       "address": "0xD15EC721C2A896512Ad29C671997DD68f9593226",
-      "name": "Optics SUSHI",
-      "symbol": "SUSHI",
+      "name": "Optics v1 SUSHI",
+      "symbol": "SUSHIxV1",
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_SUSHI.png"
@@ -534,8 +534,8 @@
     },
     {
       "address": "0xE4fE50cdD716522A56204352f00AA110F731932d",
-      "name": "Optics DAI",
-      "symbol": "DAI",
+      "name": "Optics v1 DAI",
+      "symbol": "DAIxV1",
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_DAI.png"
@@ -550,8 +550,8 @@
     },
     {
       "address": "0xE919F65739c26a42616b7b8eedC6b5524d1e3aC4",
-      "name": "Optics WETH",
-      "symbol": "WETH",
+      "name": "Optics v1 WETH",
+      "symbol": "WETHxV1",
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_WETH.png"
