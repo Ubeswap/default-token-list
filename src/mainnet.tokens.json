@@ -68,18 +68,6 @@
     "isExperimental": true
   },
   {
-    "address": "0xef4229c8c3250C675F21BCefa42f58EfbfF6002a",
-    "name": "Optics v2 USDC",
-    "symbol": "USDC",
-    "decimals": 6
-  },
-  {
-    "address": "0xef4229c8c3250C675F21BCefa42f58EfbfF6002a",
-    "name": "Optics v2 USDC (via Polygon)",
-    "symbol": "pUSDC",
-    "decimals": 6
-  },
-  {
     "address": "0x2DEf4285787d58a2f811AF24755A8150622f4361",
     "name": "wrapped.com Ethereum",
     "symbol": "cETH",
@@ -94,11 +82,6 @@
     "address": "0x3aF556B48469D2398AB7BE1563a0cfd80ea4aC84",
     "name": "Optics v1 WMATIC",
     "symbol": "WMATICxV1"
-  },
-  {
-    "address": "0x2E3487F967DF2Ebc2f236E16f8fCAeac7091324D",
-    "name": "Optics v2 WMATIC (via Polygon)",
-    "symbol": "WMATIC"
   },
   {
     "address": "0x452EF5a4bD00796e62E5e5758548e0dA6e8CCDF3",
@@ -215,12 +198,6 @@
     "isExperimental": true
   },
   {
-    "address": "0x88eeC49252c8cbc039DCdB394c0c2BA2f1637EA0",
-    "name": "Optics v2 USDT",
-    "symbol": "USDT",
-    "decimals": 6
-  },
-  {
     "address": "0xB4aa2986622249B1F45eb93F28Cfca2b2606d809",
     "name": "Poof USD",
     "symbol": "pUSD"
@@ -233,12 +210,6 @@
     "isExperimental": true
   },
   {
-    "address": "0xBAAB46E28388d2779e6E31Fd00cF0e5Ad95E327B",
-    "name": "Optics v2 WBTC",
-    "symbol": "WBTC",
-    "decimals": 8
-  },
-  {
     "address": "0xcFFfE0c89a779c09Df3DF5624f54cDf7EF5fDd5D",
     "name": "Moss USDT DEPRECATED",
     "symbol": "cUSDT",
@@ -249,11 +220,6 @@
     "name": "Optics v1 SUSHI",
     "symbol": "SUSHIxV1",
     "isExperimental": true
-  },
-  {
-    "address": "0x29dFce9c22003A4999930382Fd00f9Fd6133Acd1",
-    "name": "Optics v2 SUSHI",
-    "symbol": "SUSHI"
   },
   {
     "address": "0xD629eb00dEced2a080B7EC630eF6aC117e614f1b",
@@ -295,11 +261,6 @@
     "isExperimental": true
   },
   {
-    "address": "0x90Ca507a5D4458a4C6C6249d186b6dCb02a5BCCd",
-    "name": "Optics v2 DAI",
-    "symbol": "DAI"
-  },
-  {
     "address": "0xE74AbF23E1Fdf7ACbec2F3a30a772eF77f1601E1",
     "name": "Poof CELO",
     "symbol": "pCELO"
@@ -309,10 +270,5 @@
     "name": "Optics v1 WETH",
     "symbol": "WETHxV1",
     "isExperimental": true
-  },
-  {
-    "address": "0x122013fd7dF1C6F636a5bb8f03108E876548b455",
-    "name": "Optics v2 WETH",
-    "symbol": "WETH"
   }
 ]
