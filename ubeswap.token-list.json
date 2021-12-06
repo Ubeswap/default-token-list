@@ -2,7 +2,7 @@
   "name": "Ubeswap",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-12-06T00:56:21.032Z",
+  "timestamp": "2021-12-06T20:06:12.237Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -363,14 +363,6 @@
       "decimals": 6,
       "chainId": 42220,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_USDC.png"
-    },
-    {
-      "address": "0xef4229c8c3250C675F21BCefa42f58EfbfF6002a",
-      "name": "Optics v2 USDC via Polygon",
-      "symbol": "pUSDC",
-      "decimals": 6,
-      "chainId": 42220,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pUSDC.png"
     }
   ],
   "version": {
