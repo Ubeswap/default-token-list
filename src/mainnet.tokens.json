@@ -308,11 +308,5 @@
     "name": "Optics v2 USDC",
     "symbol": "USDC",
     "decimals": 6
-  },
-  {
-    "address": "0xef4229c8c3250C675F21BCefa42f58EfbfF6002a",
-    "name": "Optics v2 USDC via Polygon",
-    "symbol": "pUSDC",
-    "decimals": 6
   }
 ]
