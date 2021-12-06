@@ -25,6 +25,11 @@
     "symbol": "CRVxV1"
   },
   {
+    "address": "0x122013fd7dF1C6F636a5bb8f03108E876548b455",
+    "name": "Optics v2 WETH",
+    "symbol": "WETH"
+  },
+  {
     "address": "0x123ED050805E0998EBEf43671327139224218e50",
     "name": "NetM Token",
     "symbol": "NTMX"
@@ -61,6 +66,11 @@
     "symbol": "sCELO"
   },
   {
+    "address": "0x29dFce9c22003A4999930382Fd00f9Fd6133Acd1",
+    "name": "Optics v2 SUSHI",
+    "symbol": "SUSHI"
+  },
+  {
     "address": "0x2A3684e9Dc20B857375EA04235F2F7edBe818FA7",
     "name": "Optics v1 USDC",
     "symbol": "USDCxV1",
@@ -72,6 +82,11 @@
     "name": "wrapped.com Ethereum",
     "symbol": "cETH",
     "logoFile": "asset_cETH.svg"
+  },
+  {
+    "address": "0x2E3487F967DF2Ebc2f236E16f8fCAeac7091324D",
+    "name": "Optics v2 WMATIC via Polygon",
+    "symbol": "WMATIC"
   },
   {
     "address": "0x32A9FE697a32135BFd313a6Ac28792DaE4D9979d",
@@ -149,9 +164,20 @@
     "symbol": "cXOF"
   },
   {
+    "address": "0x88eeC49252c8cbc039DCdB394c0c2BA2f1637EA0",
+    "name": "Optics v2 USDT",
+    "symbol": "USDT",
+    "decimals": 6
+  },
+  {
     "address": "0x8E3670FD7B0935d3FE832711deBFE13BB689b690",
     "name": "Allbridge AVAX",
     "symbol": "AVAX"
+  },
+  {
+    "address": "0x90Ca507a5D4458a4C6C6249d186b6dCb02a5BCCd",
+    "name": "Optics v2 DAI",
+    "symbol": "DAI"
   },
   {
     "address": "0x918146359264C492BD6934071c6Bd31C854EDBc3",
@@ -201,6 +227,12 @@
     "address": "0xB4aa2986622249B1F45eb93F28Cfca2b2606d809",
     "name": "Poof USD",
     "symbol": "pUSD"
+  },
+  {
+    "address": "0xBAAB46E28388d2779e6E31Fd00cF0e5Ad95E327B",
+    "name": "Optics v2 WBTC",
+    "symbol": "WBTC",
+    "decimals": 8
   },
   {
     "address": "0xBe50a3013A1c94768A1ABb78c3cB79AB28fc1aCE",
@@ -270,5 +302,17 @@
     "name": "Optics v1 WETH",
     "symbol": "WETHxV1",
     "isExperimental": true
+  },
+  {
+    "address": "0xef4229c8c3250C675F21BCefa42f58EfbfF6002a",
+    "name": "Optics v2 USDC",
+    "symbol": "USDC",
+    "decimals": 6
+  },
+  {
+    "address": "0xef4229c8c3250C675F21BCefa42f58EfbfF6002a",
+    "name": "Optics v2 USDC via Polygon",
+    "symbol": "pUSDC",
+    "decimals": 6
   }
 ]
