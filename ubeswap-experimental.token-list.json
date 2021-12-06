@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-12-06T00:23:32.492Z",
+  "timestamp": "2021-12-06T00:56:21.032Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -278,7 +278,7 @@
     },
     {
       "address": "0x2E3487F967DF2Ebc2f236E16f8fCAeac7091324D",
-      "name": "Optics v2 WMATIC (via Polygon)",
+      "name": "Optics v2 WMATIC via Polygon",
       "symbol": "WMATIC",
       "chainId": 42220,
       "decimals": 18,
@@ -614,7 +614,7 @@
     },
     {
       "address": "0xef4229c8c3250C675F21BCefa42f58EfbfF6002a",
-      "name": "Optics v2 USDC (via Polygon)",
+      "name": "Optics v2 USDC via Polygon",
       "symbol": "pUSDC",
       "decimals": 6,
       "chainId": 42220,
@@ -623,7 +623,7 @@
   ],
   "version": {
     "major": 4,
-    "minor": 0,
+    "minor": 1,
     "patch": 30
   }
 }
