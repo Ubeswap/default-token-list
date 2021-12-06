@@ -85,7 +85,7 @@
   },
   {
     "address": "0x2E3487F967DF2Ebc2f236E16f8fCAeac7091324D",
-    "name": "Optics v2 WMATIC (via Polygon)",
+    "name": "Optics v2 WMATIC via Polygon",
     "symbol": "WMATIC"
   },
   {
@@ -311,7 +311,7 @@
   },
   {
     "address": "0xef4229c8c3250C675F21BCefa42f58EfbfF6002a",
-    "name": "Optics v2 USDC (via Polygon)",
+    "name": "Optics v2 USDC via Polygon",
     "symbol": "pUSDC",
     "decimals": 6
   }
