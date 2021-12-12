@@ -5,6 +5,7 @@ import tokenList from "../ubeswap.token-list.json";
 console.info("Validating Image Type and Sizes");
 
 function validateList(list: typeof tokenList) {
+  const NEED_RESIZING: string[] = [];
   let anyErrors = false;
   list.tokens.forEach((token) => {
     const relative = token.logoURI.replace(
@@ -20,12 +21,19 @@ function validateList(list: typeof tokenList) {
       const invalidType = checkType(token, data);
       noErrors = invalidHeight && invalidWidth && invalidType;
     }
-    noErrors && console.log("✅", token.name);
+    if (noErrors) {
+      console.log("✅", token.name);
+    } else {
+      NEED_RESIZING.push(relative);
+    }
     anyErrors = anyErrors || noErrors;
   });
 
   if (anyErrors) {
-    throw new Error("Images Larger than 200px or not PNG/SVG found");
+    console.info("NEED RESIZING");
+    NEED_RESIZING.forEach((image) => console.info(image));
+  } else {
+    console.info("complete 🚀");
   }
 }
 
@@ -33,13 +41,16 @@ validateList(tokenList);
 
 function checkSize(
   side: "height" | "width",
-  token: { name: string },
+  token: { symbol: string },
   data: probe.ProbeResult
 ) {
+  if (data.type == "svg") {
+    return true;
+  }
   if ((data[side] || 0) > 200) {
     console.error(
       "⚠️",
-      token.name,
+      token.symbol,
       side,
       "is",
       data[side],
@@ -50,11 +61,11 @@ function checkSize(
   return true;
 }
 
-function checkType(token: { name: string }, data: probe.ProbeResult) {
+function checkType(token: { symbol: string }, data: probe.ProbeResult) {
   if ("png" !== data.type && "svg" !== data.type) {
     console.error(
       "⛔️",
-      token.name,
+      token.symbol,
       "is",
       data.type,
       ". Tokens must be png or svg."
