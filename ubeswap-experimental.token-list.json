@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-12-06T20:06:12.237Z",
+  "timestamp": "2021-12-08T00:55:36.012Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -83,6 +83,14 @@
       "chainId": 44787,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcUSDxOLD.png"
+    },
+    {
+      "address": "0x7Fd91507E4A3F0E16362342dD763a1Dc6D9dA808",
+      "name": "Test Masa",
+      "symbol": "tCORN",
+      "chainId": 44787,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_tCORN.png"
     },
     {
       "address": "0x86f61EB83e10e914fc6F321F5dD3c2dD4860a003",
