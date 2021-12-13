@@ -22,7 +22,8 @@
     "typescript": "^4.3.5"
   },
   "lint-staged": {
-    "*.{js,css,md,json,yaml,yml,ts}": "prettier --write"
+    "*.{js,css,md,json,yaml,yml,ts}": "prettier --write",
+    "*.png": "yarn lint-images"
   },
   "scripts": {
     "build": "ts-node scripts/cleanupTokens.ts && ts-node scripts/buildLists.ts && ts-node scripts/validateImages.ts && prettier --write .",
