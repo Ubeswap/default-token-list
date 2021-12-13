@@ -25,7 +25,7 @@
     "*.{js,css,md,json,yaml,yml,ts}": "prettier --write"
   },
   "scripts": {
-    "build": "ts-node scripts/cleanupTokens.ts && ts-node scripts/buildLists.ts && prettier --write .",
+    "build": "ts-node scripts/cleanupTokens.ts && ts-node scripts/buildLists.ts && ts-node scripts/validateImages.ts && prettier --write .",
     "lint": "ts-node scripts/validateLists.ts",
     "lint-images": "ts-node scripts/validateImages.ts",
     "prepack": "npm run build && git add .",
