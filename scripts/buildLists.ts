@@ -43,7 +43,7 @@ const main = async () => {
       const logoURI =
         elLogoURI ||
         (logoFile ? `${LOGO_URI_BASE}/assets/${logoFile}` : null) ||
-        `${LOGO_URI_BASE}/assets/asset_${el.symbol}.png`;
+        `${LOGO_URI_BASE}/assets/asset_${el.symbol.replace("xV1", "")}.png`;
 
       // Validate
       if (logoURI.startsWith(LOGO_URI_BASE)) {
