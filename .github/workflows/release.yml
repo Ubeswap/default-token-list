@@ -34,6 +34,8 @@ jobs:
         run: yarn build
       - name: Ensure generated JSON are tokenlists
         run: yarn lint
+      - name: Ensure images are correct type and size
+        run: yarn lint-images
       - name: Publish
         run: yarn publish --patch
         env:
