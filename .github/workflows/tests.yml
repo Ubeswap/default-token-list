@@ -19,5 +19,7 @@ jobs:
         run: yarn build
       - name: Ensure generated JSON are tokenlists
         run: yarn lint
+      - name: Ensure Images are correct type and size
+        run: yarn lint-images
       - name: Check if 'yarn build' was run before making the pull request
         run: git diff && git diff-index --quiet HEAD --
