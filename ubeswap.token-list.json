@@ -2,7 +2,7 @@
   "name": "Ubeswap",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-12-16T18:23:00.381Z",
+  "timestamp": "2021-12-16T18:39:38.999Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -371,6 +371,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pCELO.png"
+    },
+    {
+      "address": "0xe8537a3d056DA446677B9E9d6c5dB704EaAb4787",
+      "name": "Celo Real",
+      "symbol": "cREAL",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cREAL.png"
     },
     {
       "address": "0xeB1e6776d198cd53A91451dd29A78Dd7f5F4C136",
