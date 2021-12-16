@@ -2,7 +2,7 @@
   "name": "Ubeswap",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-12-16T18:57:31.868Z",
+  "timestamp": "2021-12-16T19:02:28.905Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -83,6 +83,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_rCELO.png"
+    },
+    {
+      "address": "0x20677d4f3d0F08e735aB512393524A3CfCEb250C",
+      "name": "Ariswap",
+      "symbol": "ARI",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_ARI.png"
     },
     {
       "address": "0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",

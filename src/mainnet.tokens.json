@@ -50,6 +50,11 @@
     "symbol": "rCELO"
   },
   {
+    "address": "0x20677d4f3d0F08e735aB512393524A3CfCEb250C",
+    "name": "Ariswap",
+    "symbol": "ARI"
+  },
+  {
     "address": "0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",
     "name": "Anyswap FTM",
     "symbol": "FTM"
