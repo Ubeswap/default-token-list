@@ -308,6 +308,11 @@
     "symbol": "pCELOxV1"
   },
   {
+    "address": "0xe8537a3d056DA446677B9E9d6c5dB704EaAb4787",
+    "name": "Celo Real",
+    "symbol": "cREAL"
+  },
+  {
     "address": "0xE919F65739c26a42616b7b8eedC6b5524d1e3aC4",
     "name": "Optics v1 WETH",
     "symbol": "WETHxV1",
