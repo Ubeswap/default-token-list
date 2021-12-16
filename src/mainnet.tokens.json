@@ -89,6 +89,11 @@
     "symbol": "WMATIC"
   },
   {
+    "address": "0x301a61D01A63c8D670c2B8a43f37d12eF181F997",
+    "name": "Poof CELO",
+    "symbol": "pCELO"
+  },
+  {
     "address": "0x32A9FE697a32135BFd313a6Ac28792DaE4D9979d",
     "name": "Celo Moss Carbon Credit",
     "symbol": "cMCO2"
@@ -97,11 +102,6 @@
     "address": "0x3aF556B48469D2398AB7BE1563a0cfd80ea4aC84",
     "name": "Optics v1 WMATIC",
     "symbol": "WMATICxV1"
-  },
-  {
-    "address": "0x405a5c1cA9374Ca5F76a4829c6C764Dadecd2419",
-    "name": "Poof CELO",
-    "symbol": "pCELO"
   },
   {
     "address": "0x452EF5a4bD00796e62E5e5758548e0dA6e8CCDF3",
@@ -212,11 +212,6 @@
     "symbol": "BNB"
   },
   {
-    "address": "0xa7260929f57D356723739fF6EB3dF80c0e0A8A33",
-    "name": "Poof EUR",
-    "symbol": "pEUR"
-  },
-  {
     "address": "0xa81D9a2d29373777E4082d588958678a6Df5645c",
     "name": "KnoxEdge",
     "symbol": "KNX"
@@ -269,6 +264,11 @@
     "symbol": "cBTC"
   },
   {
+    "address": "0xD8761DD6c7cB54febD33adD699F5E4440b62E01B",
+    "name": "Poof EUR",
+    "symbol": "pEUR"
+  },
+  {
     "address": "0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73",
     "name": "Celo Euro",
     "symbol": "cEUR"
@@ -319,7 +319,7 @@
     "isExperimental": true
   },
   {
-    "address": "0xeB1e6776d198cd53A91451dd29A78Dd7f5F4C136",
+    "address": "0xEadf4A7168A82D30Ba0619e64d5BCf5B30B45226",
     "name": "Poof USD",
     "symbol": "pUSD"
   },
