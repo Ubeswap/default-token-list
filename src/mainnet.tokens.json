@@ -99,6 +99,11 @@
     "symbol": "WMATICxV1"
   },
   {
+    "address": "0x405a5c1cA9374Ca5F76a4829c6C764Dadecd2419",
+    "name": "Poof CELO",
+    "symbol": "pCELO"
+  },
+  {
     "address": "0x452EF5a4bD00796e62E5e5758548e0dA6e8CCDF3",
     "name": "CeloStarter",
     "symbol": "cStar"
@@ -120,8 +125,8 @@
   },
   {
     "address": "0x56072D4832642dB29225dA12d6Fd1290E4744682",
-    "name": "Poof EUR",
-    "symbol": "pEUR"
+    "name": "Poof v1 EUR",
+    "symbol": "pEURxV1"
   },
   {
     "address": "0x64dEFa3544c695db8c535D289d843a189aa26b98",
@@ -207,6 +212,11 @@
     "symbol": "BNB"
   },
   {
+    "address": "0xa7260929f57D356723739fF6EB3dF80c0e0A8A33",
+    "name": "Poof EUR",
+    "symbol": "pEUR"
+  },
+  {
     "address": "0xa81D9a2d29373777E4082d588958678a6Df5645c",
     "name": "KnoxEdge",
     "symbol": "KNX"
@@ -225,8 +235,8 @@
   },
   {
     "address": "0xB4aa2986622249B1F45eb93F28Cfca2b2606d809",
-    "name": "Poof USD",
-    "symbol": "pUSD"
+    "name": "Poof v1 USD",
+    "symbol": "pUSDxV1"
   },
   {
     "address": "0xBAAB46E28388d2779e6E31Fd00cF0e5Ad95E327B",
@@ -294,14 +304,19 @@
   },
   {
     "address": "0xE74AbF23E1Fdf7ACbec2F3a30a772eF77f1601E1",
-    "name": "Poof CELO",
-    "symbol": "pCELO"
+    "name": "Poof v1 CELO",
+    "symbol": "pCELOxV1"
   },
   {
     "address": "0xE919F65739c26a42616b7b8eedC6b5524d1e3aC4",
     "name": "Optics v1 WETH",
     "symbol": "WETHxV1",
     "isExperimental": true
+  },
+  {
+    "address": "0xeB1e6776d198cd53A91451dd29A78Dd7f5F4C136",
+    "name": "Poof USD",
+    "symbol": "pUSD"
   },
   {
     "address": "0xef4229c8c3250C675F21BCefa42f58EfbfF6002a",
