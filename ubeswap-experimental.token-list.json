@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-12-13T23:57:53.523Z",
+  "timestamp": "2021-12-16T18:23:00.381Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -301,6 +301,14 @@
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_WMATIC.png"
     },
     {
+      "address": "0x405a5c1cA9374Ca5F76a4829c6C764Dadecd2419",
+      "name": "Poof CELO",
+      "symbol": "pCELO",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pCELO.png"
+    },
+    {
       "address": "0x452EF5a4bD00796e62E5e5758548e0dA6e8CCDF3",
       "name": "CeloStarter",
       "symbol": "cStar",
@@ -334,8 +342,8 @@
     },
     {
       "address": "0x56072D4832642dB29225dA12d6Fd1290E4744682",
-      "name": "Poof EUR",
-      "symbol": "pEUR",
+      "name": "Poof v1 EUR",
+      "symbol": "pEURxV1",
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pEUR.png"
@@ -469,6 +477,14 @@
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_BNB.png"
     },
     {
+      "address": "0xa7260929f57D356723739fF6EB3dF80c0e0A8A33",
+      "name": "Poof EUR",
+      "symbol": "pEUR",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pEUR.png"
+    },
+    {
       "address": "0xa81D9a2d29373777E4082d588958678a6Df5645c",
       "name": "KnoxEdge",
       "symbol": "KNX",
@@ -494,8 +510,8 @@
     },
     {
       "address": "0xB4aa2986622249B1F45eb93F28Cfca2b2606d809",
-      "name": "Poof USD",
-      "symbol": "pUSD",
+      "name": "Poof v1 USD",
+      "symbol": "pUSDxV1",
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pUSD.png"
@@ -590,8 +606,8 @@
     },
     {
       "address": "0xE74AbF23E1Fdf7ACbec2F3a30a772eF77f1601E1",
-      "name": "Poof CELO",
-      "symbol": "pCELO",
+      "name": "Poof v1 CELO",
+      "symbol": "pCELOxV1",
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pCELO.png"
@@ -603,6 +619,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_WETH.png"
+    },
+    {
+      "address": "0xeB1e6776d198cd53A91451dd29A78Dd7f5F4C136",
+      "name": "Poof USD",
+      "symbol": "pUSD",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pUSD.png"
     },
     {
       "address": "0xef4229c8c3250C675F21BCefa42f58EfbfF6002a",
