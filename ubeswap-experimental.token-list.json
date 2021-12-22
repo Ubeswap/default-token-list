@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-12-16T19:02:28.905Z",
+  "timestamp": "2021-12-22T02:35:18.089Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -323,6 +323,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cStar.png"
+    },
+    {
+      "address": "0x46c9757C5497c5B1f2eb73aE79b6B67D119B0B58",
+      "name": "impactMarket",
+      "symbol": "PACT",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_PACT.png"
     },
     {
       "address": "0x471EcE3750Da237f93B8E339c536989b8978a438",
