@@ -114,6 +114,11 @@
     "symbol": "cStar"
   },
   {
+    "address": "0x46c9757C5497c5B1f2eb73aE79b6B67D119B0B58",
+    "name": "impactMarket",
+    "symbol": "PACT"
+  },
+  {
     "address": "0x471EcE3750Da237f93B8E339c536989b8978a438",
     "name": "Celo",
     "symbol": "CELO"
