@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2021-12-22T02:35:18.089Z",
+  "timestamp": "2022-01-01T18:04:27.122Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -619,6 +619,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_DAI.png"
+    },
+    {
+      "address": "0xE685d21b7B0FC7A248a6A8E03b8Db22d013Aa2eE",
+      "name": "Immortal",
+      "symbol": "IMMO",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_IMMO.png"
     },
     {
       "address": "0xE74AbF23E1Fdf7ACbec2F3a30a772eF77f1601E1",
