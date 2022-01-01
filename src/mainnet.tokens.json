@@ -315,7 +315,8 @@
   {
     "address": "0xE685d21b7B0FC7A248a6A8E03b8Db22d013Aa2eE",
     "name": "Immortal",
-    "symbol": "IMMO"
+    "symbol": "IMMO",
+    "decimals": 9
   },
   {
     "address": "0xE74AbF23E1Fdf7ACbec2F3a30a772eF77f1601E1",
