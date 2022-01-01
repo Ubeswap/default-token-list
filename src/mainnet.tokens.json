@@ -313,6 +313,11 @@
     "isExperimental": true
   },
   {
+    "address": "0xE685d21b7B0FC7A248a6A8E03b8Db22d013Aa2eE",
+    "name": "Immortal",
+    "symbol": "IMMO"
+  },
+  {
     "address": "0xE74AbF23E1Fdf7ACbec2F3a30a772eF77f1601E1",
     "name": "Poof v1 CELO",
     "symbol": "pCELOxV1"
