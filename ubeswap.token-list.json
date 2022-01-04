@@ -2,7 +2,7 @@
   "name": "Ubeswap",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2022-01-01T18:14:50.170Z",
+  "timestamp": "2022-01-04T15:52:35.079Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -213,6 +213,14 @@
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcUSDxOLD.png"
     },
     {
+      "address": "0x6e512BFC33be36F2666754E996ff103AD1680Cc9",
+      "name": "Allbridge",
+      "symbol": "ABR",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_ABR.png"
+    },
+    {
       "address": "0x7037F7296B2fc7908de7b57a89efaa8319f0C500",
       "name": "Moola CELO DEPRECATED",
       "symbol": "mCELOxOLD",
@@ -243,6 +251,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cUSD.png"
+    },
+    {
+      "address": "0x788BA01f8E2b87c08B142DB46F82094e0bdCad4F",
+      "name": "Staked Allbridge",
+      "symbol": "xABR",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_xABR.png"
     },
     {
       "address": "0x7c64aD5F9804458B8c9F93f7300c15D55956Ac2a",
