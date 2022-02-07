@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2022-01-13T18:44:28.770Z",
+  "timestamp": "2022-02-07T18:40:57.193Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -59,6 +59,14 @@
       "chainId": 44787,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcUSD.png"
+    },
+    {
+      "address": "0x3D0EDA535ca4b15c739D46761d24E42e37664Ad7",
+      "name": "Moola cREAL",
+      "symbol": "mcREAL",
+      "chainId": 44787,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcREAL.png"
     },
     {
       "address": "0x4d8BF8347600f5207bfdad57363fBa802C9C2031",
@@ -491,6 +499,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_PREMIO.png"
+    },
+    {
+      "address": "0x9802d866fdE4563d088a6619F7CeF82C0B991A55",
+      "name": "Moola cREAL",
+      "symbol": "mcREAL",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcREAL.png"
     },
     {
       "address": "0x9Ee153D4Fdf0E3222eFD092c442ebB21DFd346AC",

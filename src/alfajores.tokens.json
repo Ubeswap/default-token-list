@@ -35,6 +35,11 @@
     "symbol": "mcUSD"
   },
   {
+    "address": "0x3D0EDA535ca4b15c739D46761d24E42e37664Ad7",
+    "name": "Moola cREAL",
+    "symbol": "mcREAL"
+  },
+  {
     "address": "0x4d8BF8347600f5207bfdad57363fBa802C9C2031",
     "name": "Marzipan Finance",
     "symbol": "MZPN"
