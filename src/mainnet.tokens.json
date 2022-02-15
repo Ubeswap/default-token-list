@@ -359,5 +359,11 @@
     "name": "Optics v2 USDC",
     "symbol": "USDC",
     "decimals": 6
+  },
+  {
+    "address": "0x3D3B92Fe0B4c26b74F8fF13A32dD764F4DFD8b51",
+    "name": "Orbit Bridge KlaySwap Protocol",
+    "symbol": "CKSP",
+    "decimals": 18
   }
 ]
