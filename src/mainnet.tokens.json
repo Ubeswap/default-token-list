@@ -10,6 +10,11 @@
     "symbol": "UBE"
   },
   {
+    "address": "0x035eE610693a29Cb77fD6eFBEb9d9d278703e145",
+    "name": "TrueFeedBack Old",
+    "symbol": "TFBX"
+  },
+  {
     "address": "0x0a60c25Ef6021fC3B479914E6bcA7C03c18A97f1",
     "name": "Stabilite USD",
     "symbol": "stabilUSD"
@@ -262,11 +267,6 @@
   {
     "address": "0xbDd31EFfb9E9f7509fEaAc5B4091b31645A47e4b",
     "name": "TrueFeedBack New",
-    "symbol": "TFBX"
-  },
-  {
-    "address": "0x035eE610693a29Cb77fD6eFBEb9d9d278703e145",
-    "name": "TrueFeedBack Old",
     "symbol": "TFBX"
   },
   {
