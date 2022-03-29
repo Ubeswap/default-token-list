@@ -12,7 +12,8 @@
   {
     "address": "0x035eE610693a29Cb77fD6eFBEb9d9d278703e145",
     "name": "TrueFeedBack DEPRECATED",
-    "symbol": "TFBXxOLD"
+    "symbol": "TFBXxOLD",
+    "isExperimental": true
   },
   {
     "address": "0x0a60c25Ef6021fC3B479914E6bcA7C03c18A97f1",
@@ -22,7 +23,8 @@
   {
     "address": "0x0a7432cF27F1aE3825c313F3C81e7D3efD7639aB",
     "name": "Optics v1 CRV",
-    "symbol": "CRVxV1"
+    "symbol": "CRVxV1",
+    "isExperimental": true
   },
   {
     "address": "0x122013fd7dF1C6F636a5bb8f03108E876548b455",
@@ -106,7 +108,8 @@
   {
     "address": "0x3aF556B48469D2398AB7BE1563a0cfd80ea4aC84",
     "name": "Optics v1 WMATIC",
-    "symbol": "WMATICxV1"
+    "symbol": "WMATICxV1",
+    "isExperimental": true
   },
   {
     "address": "0x452EF5a4bD00796e62E5e5758548e0dA6e8CCDF3",
@@ -131,17 +134,20 @@
   {
     "address": "0x503681c68f03bbbCe48005DCD7b83ae8D4fD745C",
     "name": "Optics v1 AAVE",
-    "symbol": "AAVExV1"
+    "symbol": "AAVExV1",
+    "isExperimental": true
   },
   {
     "address": "0x56072D4832642dB29225dA12d6Fd1290E4744682",
     "name": "Poof v1 EUR",
-    "symbol": "pEURxV1"
+    "symbol": "pEURxV1",
+    "isExperimental": true
   },
   {
     "address": "0x64dEFa3544c695db8c535D289d843a189aa26b98",
     "name": "Moola cUSD DEPRECATED",
-    "symbol": "mcUSDxOLD"
+    "symbol": "mcUSDxOLD",
+    "isExperimental": true
   },
   {
     "address": "0x6e512BFC33be36F2666754E996ff103AD1680Cc9",
@@ -151,7 +157,8 @@
   {
     "address": "0x7037F7296B2fc7908de7b57a89efaa8319f0C500",
     "name": "Moola CELO DEPRECATED",
-    "symbol": "mCELOxOLD"
+    "symbol": "mCELOxOLD",
+    "isExperimental": true
   },
   {
     "address": "0x73a210637f6F6B7005512677Ba6B3C96bb4AA44B",
@@ -244,7 +251,8 @@
   {
     "address": "0xa8d0E6799FF3Fd19c6459bf02689aE09c4d78Ba7",
     "name": "Moola cEUR DEPRECATED",
-    "symbol": "mcEURxOLD"
+    "symbol": "mcEURxOLD",
+    "isExperimental": true
   },
   {
     "address": "0xb020D981420744F6b0FedD22bB67cd37Ce18a1d5",
@@ -256,7 +264,8 @@
   {
     "address": "0xB4aa2986622249B1F45eb93F28Cfca2b2606d809",
     "name": "Poof v1 USD",
-    "symbol": "pUSDxV1"
+    "symbol": "pUSDxV1",
+    "isExperimental": true
   },
   {
     "address": "0xBAAB46E28388d2779e6E31Fd00cF0e5Ad95E327B",
@@ -341,7 +350,8 @@
   {
     "address": "0xE74AbF23E1Fdf7ACbec2F3a30a772eF77f1601E1",
     "name": "Poof v1 CELO",
-    "symbol": "pCELOxV1"
+    "symbol": "pCELOxV1",
+    "isExperimental": true
   },
   {
     "address": "0xe8537a3d056DA446677B9E9d6c5dB704EaAb4787",
