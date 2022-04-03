@@ -1,8 +1,8 @@
 {
-  "name": "Ubeswap Experimental",
+  "name": "Unknown List",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2022-03-29T14:55:26.617Z",
+  "timestamp": "2022-04-03T08:36:57.537Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -195,6 +195,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_CRV.png"
+    },
+    {
+      "address": "0x0F2177ac29EEcCb9E2897CA0D7D1c545858e14AC",
+      "name": "HEAVENS",
+      "symbol": "HEAVENS",
+      "decimals": 2,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_HEAVENS.png"
     },
     {
       "address": "0x122013fd7dF1C6F636a5bb8f03108E876548b455",
