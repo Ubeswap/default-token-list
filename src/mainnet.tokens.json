@@ -171,6 +171,11 @@
     "symbol": "SOURCE"
   },
   {
+    "address": "0x751c0834599C49E2e857Ca9F1Cdf929e6FA45119",
+    "name": "Ethix on Celo",
+    "symbol": "ETHIX"
+  },
+  {
     "address": "0x765DE816845861e75A25fCA122bb6898B8B1282a",
     "name": "Celo Dollar",
     "symbol": "cUSD"
