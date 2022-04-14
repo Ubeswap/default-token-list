@@ -2,7 +2,7 @@
   "name": "Ubeswap",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2022-03-29T14:55:26.617Z",
+  "timestamp": "2022-04-14T16:13:22.475Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -205,14 +205,6 @@
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_xABR.png"
     },
     {
-      "address": "0x7c64aD5F9804458B8c9F93f7300c15D55956Ac2a",
-      "name": "Symmetric",
-      "symbol": "SYMM",
-      "chainId": 42220,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_SYMM.png"
-    },
-    {
       "address": "0x7D00cd74FF385c955EA3d79e47BF06bD7386387D",
       "name": "Moola CELO",
       "symbol": "mCELO",
@@ -227,6 +219,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cXOF.png"
+    },
+    {
+      "address": "0x8427bD503dd3169cCC9aFF7326c15258Bc305478",
+      "name": "Symmetric",
+      "symbol": "SYMM",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_SYMM.png"
     },
     {
       "address": "0x88eeC49252c8cbc039DCdB394c0c2BA2f1637EA0",
