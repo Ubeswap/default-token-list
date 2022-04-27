@@ -2,7 +2,11 @@
   "name": "Unknown List",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
+<<<<<<< Updated upstream
   "timestamp": "2022-04-03T08:36:57.537Z",
+=======
+  "timestamp": "2022-04-25T16:11:36.745Z",
+>>>>>>> Stashed changes
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
