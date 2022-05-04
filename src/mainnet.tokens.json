@@ -187,8 +187,9 @@
   },
   {
     "address": "0x7c64aD5F9804458B8c9F93f7300c15D55956Ac2a",
-    "name": "Symmetric",
-    "symbol": "SYMM"
+    "name": "Symmetric DEPRECATED",
+    "symbol": "SYMMxOLD",
+    "isExperimental": true
   },
   {
     "address": "0x7D00cd74FF385c955EA3d79e47BF06bD7386387D",
@@ -199,6 +200,11 @@
     "address": "0x832F03bCeE999a577cb592948983E35C048B5Aa4",
     "name": "Duniapay West African CFA franc",
     "symbol": "cXOF"
+  },
+  {
+    "address": "0x8427bD503dd3169cCC9aFF7326c15258Bc305478",
+    "name": "Symmetric",
+    "symbol": "SYMM"
   },
   {
     "address": "0x88eeC49252c8cbc039DCdB394c0c2BA2f1637EA0",
