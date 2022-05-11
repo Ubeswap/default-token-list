@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2022-04-14T16:13:22.475Z",
+  "timestamp": "2022-05-11T17:27:16.394Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -75,6 +75,14 @@
       "chainId": 44787,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_MZPN.png"
+    },
+    {
+      "address": "0x555aD69103f8101645A797459b748A5B822AB9A5",
+      "name": "YankeeExchange",
+      "symbol": "YANKEE",
+      "chainId": 44787,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_YANKEE.png"
     },
     {
       "address": "0x653cC2Cc0Be398614BAd5d5328336dc79281e246",

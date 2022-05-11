@@ -45,6 +45,11 @@
     "symbol": "MZPN"
   },
   {
+    "address": "0x555aD69103f8101645A797459b748A5B822AB9A5",
+    "name": "YankeeExchange",
+    "symbol": "YANKEE"
+  },
+  {
     "address": "0x653cC2Cc0Be398614BAd5d5328336dc79281e246",
     "name": "Moola CELO",
     "symbol": "mCELO"
