@@ -138,6 +138,11 @@
     "isExperimental": true
   },
   {
+    "address": "0x555aD69103f8101645A797459b748A5B822AB9A5",
+    "name": "YankeeExchange",
+    "symbol": "YANKEE"
+  },
+  {
     "address": "0x56072D4832642dB29225dA12d6Fd1290E4744682",
     "name": "Poof v1 EUR",
     "symbol": "pEURxV1",
