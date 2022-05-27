@@ -372,6 +372,15 @@
       "chainId": 42220,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_USDC.png"
     }
+     },
+    {
+      "address": "0x4213E7aB42dD21366508B18edfc33C29e7cBD81B",
+      "name": "KARMAGE",
+      "symbol": "KMGE",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_KMGE.png"
+    }
   ],
   "version": {
     "major": 4,
