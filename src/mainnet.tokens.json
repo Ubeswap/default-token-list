@@ -380,5 +380,11 @@
     "name": "Optics v2 USDC",
     "symbol": "USDC",
     "decimals": 6
+  },
+  {
+    "address": "0x4213E7aB42dD21366508B18edfc33C29e7cBD81B",
+    "name": "KARMAGE",
+    "symbol": "KMGE",
+    "decimals": 18,
   }
 ]
