@@ -2,7 +2,7 @@
   "name": "Ubeswap",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2022-04-14T16:13:22.475Z",
+  "timestamp": "2022-06-03T01:26:22.691Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -131,6 +131,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cMCO2.png"
+    },
+    {
+      "address": "0x34C11A932853Ae24E845Ad4B633E3cEf91afE583",
+      "name": "cRecy",
+      "symbol": "cRecy",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cRecy.png"
     },
     {
       "address": "0x452EF5a4bD00796e62E5e5758548e0dA6e8CCDF3",
