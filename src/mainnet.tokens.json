@@ -386,5 +386,6 @@
     "name": "KARMAGE",
     "symbol": "KMGE",
     "decimals": 18,
+    "isExperimental": true
   }
 ]
