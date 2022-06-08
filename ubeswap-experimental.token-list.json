@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2022-04-14T16:13:22.475Z",
+  "timestamp": "2022-06-08T20:14:19.455Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -323,6 +323,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_WMATIC.png"
+    },
+    {
+      "address": "0x4213E7aB42dD21366508B18edfc33C29e7cBD81B",
+      "name": "KARMAGE",
+      "symbol": "KMGE",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_KMGE.png"
     },
     {
       "address": "0x452EF5a4bD00796e62E5e5758548e0dA6e8CCDF3",
