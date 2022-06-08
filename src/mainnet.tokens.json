@@ -112,6 +112,13 @@
     "isExperimental": true
   },
   {
+    "address": "0x4213E7aB42dD21366508B18edfc33C29e7cBD81B",
+    "name": "KARMAGE",
+    "symbol": "KMGE",
+    "decimals": 18,
+    "isExperimental": true
+  },
+  {
     "address": "0x452EF5a4bD00796e62E5e5758548e0dA6e8CCDF3",
     "name": "CeloStarter",
     "symbol": "cStar"
@@ -380,12 +387,5 @@
     "name": "Optics v2 USDC",
     "symbol": "USDC",
     "decimals": 6
-  },
-  {
-    "address": "0x4213E7aB42dD21366508B18edfc33C29e7cBD81B",
-    "name": "KARMAGE",
-    "symbol": "KMGE",
-    "decimals": 18,
-    "isExperimental": true
   }
 ]
