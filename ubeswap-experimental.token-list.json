@@ -325,6 +325,14 @@
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_WMATIC.png"
     },
     {
+      "address": "0x4213E7aB42dD21366508B18edfc33C29e7cBD81B",
+      "name": "KARMAGE",
+      "symbol": "KMGE",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_KMGE.png"
+    },
+    {
       "address": "0x452EF5a4bD00796e62E5e5758548e0dA6e8CCDF3",
       "name": "CeloStarter",
       "symbol": "cStar",
@@ -728,6 +736,6 @@
   "version": {
     "major": 4,
     "minor": 1,
-    "patch": 47
+    "patch": 49
   }
 }
