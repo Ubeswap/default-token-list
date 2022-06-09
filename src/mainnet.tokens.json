@@ -30,7 +30,7 @@
     "address": "0x0F2177ac29EEcCb9E2897CA0D7D1c545858e14AC",
     "name": "HEAVENS",
     "symbol": "HEAVENS",
-    "decimals": 2
+    "isExperimental": true
   },
   {
     "address": "0x122013fd7dF1C6F636a5bb8f03108E876548b455",
@@ -380,5 +380,11 @@
     "name": "Optics v2 USDC",
     "symbol": "USDC",
     "decimals": 6
+  },
+  {
+    "address": "0x0F2177ac29EEcCb9E2897CA0D7D1c545858e14AC",
+    "name": "HEAVENS",
+    "symbol": "HEAVENS",
+    "decimals": 2
   }
 ]
