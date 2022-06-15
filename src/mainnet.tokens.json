@@ -157,6 +157,11 @@
     "isExperimental": true
   },
   {
+    "address": "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207",
+    "name": "Ether (Portal)",
+    "symbol": "ETH"
+  },
+  {
     "address": "0x6e512BFC33be36F2666754E996ff103AD1680Cc9",
     "name": "Allbridge",
     "symbol": "ABR"
