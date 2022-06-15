@@ -2,7 +2,7 @@
   "name": "Ubeswap",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2022-06-15T12:47:08.768Z",
+  "timestamp": "2022-06-15T12:51:01.277Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -166,7 +166,7 @@
     },
     {
       "address": "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207",
-      "name": "Ether (Portal)",
+      "name": "Portal Ether",
       "symbol": "ETH",
       "chainId": 42220,
       "decimals": 18,
