@@ -257,6 +257,11 @@
     "isExperimental": true
   },
   {
+    "address": "0xA287A3722c367849eFA5c76e96BE36efd65C290e",
+    "name": "Celo DeFi Index",
+    "symbol": "cDEFI"
+  },
+  {
     "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
     "name": "Anyswap BNB",
     "symbol": "BNB"

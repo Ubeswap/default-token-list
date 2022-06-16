@@ -2,7 +2,7 @@
   "name": "Ubeswap",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2022-06-16T15:04:34.795Z",
+  "timestamp": "2022-06-16T19:41:10.711Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -283,6 +283,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcREAL.png"
+    },
+    {
+      "address": "0xA287A3722c367849eFA5c76e96BE36efd65C290e",
+      "name": "Celo DeFi Index",
+      "symbol": "cDEFI",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cDEFI.png"
     },
     {
       "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
