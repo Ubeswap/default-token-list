@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2022-06-09T09:12:49.361Z",
+  "timestamp": "2022-06-20T13:11:53.409Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -421,14 +421,6 @@
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_SOURCE.png"
     },
     {
-      "address": "0x751c0834599C49E2e857Ca9F1Cdf929e6FA45119",
-      "name": "Ethix on Celo",
-      "symbol": "ETHIX",
-      "chainId": 42220,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_ETHIX.png"
-    },
-    {
       "address": "0x765DE816845861e75A25fCA122bb6898B8B1282a",
       "name": "Celo Dollar",
       "symbol": "cUSD",
@@ -531,6 +523,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcREAL.png"
+    },
+    {
+      "address": "0x9995cc8F20Db5896943Afc8eE0ba463259c931ed",
+      "name": "Ethix on Celo",
+      "symbol": "ETHIX",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_ETHIX.png"
     },
     {
       "address": "0x9Ee153D4Fdf0E3222eFD092c442ebB21DFd346AC",

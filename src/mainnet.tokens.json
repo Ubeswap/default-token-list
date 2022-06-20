@@ -178,12 +178,6 @@
     "symbol": "SOURCE"
   },
   {
-    "address": "0x751c0834599C49E2e857Ca9F1Cdf929e6FA45119",
-    "name": "Ethix on Celo",
-    "symbol": "ETHIX",
-    "isExperimental": true
-  },
-  {
     "address": "0x765DE816845861e75A25fCA122bb6898B8B1282a",
     "name": "Celo Dollar",
     "symbol": "cUSD"
@@ -250,6 +244,12 @@
     "address": "0x9802d866fdE4563d088a6619F7CeF82C0B991A55",
     "name": "Moola cREAL",
     "symbol": "mcREAL"
+  },
+  {
+    "address": "0x9995cc8F20Db5896943Afc8eE0ba463259c931ed",
+    "name": "Ethix on Celo",
+    "symbol": "ETHIX",
+    "isExperimental": true
   },
   {
     "address": "0x9Ee153D4Fdf0E3222eFD092c442ebB21DFd346AC",
