@@ -2,7 +2,7 @@
   "name": "Ubeswap",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2022-06-09T09:12:49.361Z",
+  "timestamp": "2022-06-16T19:41:10.711Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -165,6 +165,14 @@
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_SBR.png"
     },
     {
+      "address": "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207",
+      "name": "Portal Ether",
+      "symbol": "ETH",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_ETH.png"
+    },
+    {
       "address": "0x6e512BFC33be36F2666754E996ff103AD1680Cc9",
       "name": "Allbridge",
       "symbol": "ABR",
@@ -277,6 +285,14 @@
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcREAL.png"
     },
     {
+      "address": "0xA287A3722c367849eFA5c76e96BE36efd65C290e",
+      "name": "Celo DeFi Index",
+      "symbol": "cDEFI",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cDEFI.png"
+    },
+    {
       "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
       "name": "Anyswap BNB",
       "symbol": "BNB",
@@ -376,6 +392,6 @@
   "version": {
     "major": 4,
     "minor": 1,
-    "patch": 49
+    "patch": 52
   }
 }
