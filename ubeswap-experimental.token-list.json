@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2022-06-20T13:11:53.409Z",
+  "timestamp": "2022-07-21T17:17:45.285Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -391,10 +391,10 @@
     {
       "address": "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207",
       "name": "Portal Ether",
-      "symbol": "ETH",
+      "symbol": "WETH",
       "chainId": 42220,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_ETH.png"
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_WETH.png"
     },
     {
       "address": "0x6e512BFC33be36F2666754E996ff103AD1680Cc9",
