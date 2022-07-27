@@ -40,6 +40,11 @@
     "symbol": "mcREAL"
   },
   {
+    "address": "0x4620D7a5F58f77eeE69A38AfdAa8f2FfB10b42b6",
+    "name": "Ethix on Celo",
+    "symbol": "ETHIX"
+  },
+  {
     "address": "0x4d8BF8347600f5207bfdad57363fBa802C9C2031",
     "name": "Marzipan Finance",
     "symbol": "MZPN"
