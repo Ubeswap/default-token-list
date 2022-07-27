@@ -253,8 +253,7 @@
   {
     "address": "0x9995cc8F20Db5896943Afc8eE0ba463259c931ed",
     "name": "Ethix on Celo",
-    "symbol": "ETHIX",
-    "isExperimental": true
+    "symbol": "ETHIX"
   },
   {
     "address": "0x9Ee153D4Fdf0E3222eFD092c442ebB21DFd346AC",
