@@ -83,5 +83,10 @@
     "address": "0xF194afDf50B03e69Bd7D057c1Aa9e10c9954E4C9",
     "name": "Celo",
     "symbol": "CELO"
+  },
+  {
+    "address": "0xfb60a08855389F3c0A66b29aB9eFa911ed5cbCB5",
+    "name": "Nature Carbon Tonne",
+    "symbol": "NCT"
   }
 ]

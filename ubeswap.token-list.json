@@ -2,7 +2,7 @@
   "name": "Ubeswap",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2022-08-05T10:01:38.198Z",
+  "timestamp": "2022-08-18T15:45:41.780Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -19,6 +19,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_UBE.png"
+    },
+    {
+      "address": "0x02De4766C272abc10Bc88c220D214A26960a7e92",
+      "name": "Nature Carbon Tonne",
+      "symbol": "NCT",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_NCT.png"
     },
     {
       "address": "0x0a60c25Ef6021fC3B479914E6bcA7C03c18A97f1",
