@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2022-08-17T22:10:36.613Z",
+  "timestamp": "2022-08-18T15:45:41.780Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -142,7 +142,7 @@
     },
     {
       "address": "0xfb60a08855389F3c0A66b29aB9eFa911ed5cbCB5",
-      "name": "Toucan Protocol: Nature Carbon Tonne",
+      "name": "Nature Carbon Tonne",
       "symbol": "NCT",
       "chainId": 44787,
       "decimals": 18,
@@ -190,7 +190,7 @@
     },
     {
       "address": "0x02De4766C272abc10Bc88c220D214A26960a7e92",
-      "name": "Toucan Protocol: Nature Carbon Tonne",
+      "name": "Nature Carbon Tonne",
       "symbol": "NCT",
       "chainId": 42220,
       "decimals": 18,
