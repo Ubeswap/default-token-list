@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2022-08-18T15:45:41.780Z",
+  "timestamp": "2022-09-06T14:38:37.301Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -51,6 +51,14 @@
       "chainId": 44787,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcEURxOLD.png"
+    },
+    {
+      "address": "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd",
+      "name": "USDCet (Portal from Ethereum)",
+      "symbol": "USDCet",
+      "decimals": 6,
+      "chainId": 44787,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_USDCet.png"
     },
     {
       "address": "0x3a0EA4e0806805527C750AB9b34382642448468D",
@@ -339,6 +347,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cMCO2.png"
+    },
+    {
+      "address": "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd",
+      "name": "USDCet (Portal from Ethereum)",
+      "symbol": "USDCet",
+      "decimals": 6,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_USDCet.png"
     },
     {
       "address": "0x3aF556B48469D2398AB7BE1563a0cfd80ea4aC84",

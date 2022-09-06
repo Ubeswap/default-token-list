@@ -111,6 +111,12 @@
     "symbol": "cMCO2"
   },
   {
+    "address": "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd",
+    "name": "USDCet (Portal from Ethereum)",
+    "symbol": "USDCet",
+    "decimals": 6
+  },
+  {
     "address": "0x3aF556B48469D2398AB7BE1563a0cfd80ea4aC84",
     "name": "Optics v1 WMATIC",
     "symbol": "WMATICxV1",
