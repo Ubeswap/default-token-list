@@ -2,7 +2,7 @@
   "name": "Ubeswap",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2022-09-06T14:38:37.301Z",
+  "timestamp": "2022-09-30T16:01:01.693Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -142,7 +142,7 @@
     },
     {
       "address": "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd",
-      "name": "USDCet (Portal from Ethereum)",
+      "name": "Portal USDC from Ethereum",
       "symbol": "USDCet",
       "decimals": 6,
       "chainId": 42220,
