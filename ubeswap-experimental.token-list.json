@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2022-09-30T16:01:01.693Z",
+  "timestamp": "2022-09-30T17:36:40.436Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -11,6 +11,14 @@
       "chainId": 44787,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_POOF.png"
+    },
+    {
+      "address": "0x0599044B3945C70EaAeE82725E673bcb427d9b64",
+      "name": "Moola interest bearing MOO",
+      "symbol": "mMOO",
+      "chainId": 44787,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mMOO.png"
     },
     {
       "address": "0x0D9B4311657003251d1eFa085e74f761185F271c",
@@ -355,6 +363,14 @@
       "decimals": 6,
       "chainId": 42220,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_USDCet.png"
+    },
+    {
+      "address": "0x3A5024E3AAB31A1d3184127B52b0e4B4E9ADcC34",
+      "name": "Moola interest bearing MOO",
+      "symbol": "mMOO",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mMOO.png"
     },
     {
       "address": "0x3aF556B48469D2398AB7BE1563a0cfd80ea4aC84",
