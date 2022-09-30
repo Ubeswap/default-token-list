@@ -117,6 +117,11 @@
     "decimals": 6
   },
   {
+    "address": "0x3A5024E3AAB31A1d3184127B52b0e4B4E9ADcC34",
+    "name": "Moola MOO",
+    "symbol": "mMOO"
+  },
+  {
     "address": "0x3aF556B48469D2398AB7BE1563a0cfd80ea4aC84",
     "name": "Optics v1 WMATIC",
     "symbol": "WMATICxV1",

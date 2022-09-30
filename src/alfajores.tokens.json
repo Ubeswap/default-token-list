@@ -5,6 +5,11 @@
     "symbol": "POOF"
   },
   {
+    "address": "0x0599044B3945C70EaAeE82725E673bcb427d9b64",
+    "name": "Moola MOO",
+    "symbol": "mMOO"
+  },
+  {
     "address": "0x0D9B4311657003251d1eFa085e74f761185F271c",
     "name": "Moola cEUR",
     "symbol": "mcEUR"
