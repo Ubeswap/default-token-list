@@ -2,7 +2,7 @@
   "name": "Ubeswap",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2022-09-30T16:01:01.693Z",
+  "timestamp": "2023-02-03T20:21:05.063Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -347,6 +347,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_TFBX.png"
+    },
+    {
+      "address": "0xC668583dcbDc9ae6FA3CE46462758188adfdfC24",
+      "name": "Staked Celo",
+      "symbol": "stCELO",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_stCELO.png"
     },
     {
       "address": "0xD629eb00dEced2a080B7EC630eF6aC117e614f1b",
