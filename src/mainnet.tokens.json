@@ -325,6 +325,11 @@
     "isExperimental": true
   },
   {
+    "address": "0xC668583dcbDc9ae6FA3CE46462758188adfdfC24",
+    "name": "Staked Celo",
+    "symbol": "stCELO"
+  },
+  {
     "address": "0xcFFfE0c89a779c09Df3DF5624f54cDf7EF5fDd5D",
     "name": "Moss USDT DEPRECATED",
     "symbol": "cUSDT",
