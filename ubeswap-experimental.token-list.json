@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2023-02-03T20:21:05.063Z",
+  "timestamp": "2023-02-16T16:45:01.890Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -419,6 +419,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pEUR.png"
+    },
+    {
+      "address": "0x62B8B11039FcfE5aB0C56E502b1C372A3d2a9c7A",
+      "name": "GoodDollar",
+      "symbol": "G$",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_G$.png"
     },
     {
       "address": "0x64dEFa3544c695db8c535D289d843a189aa26b98",

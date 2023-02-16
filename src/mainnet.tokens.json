@@ -162,6 +162,12 @@
     "isExperimental": true
   },
   {
+    "address": "0x62B8B11039FcfE5aB0C56E502b1C372A3d2a9c7A",
+    "name": "GoodDollar",
+    "symbol": "G$",
+    "decimals": 18
+  },
+  {
     "address": "0x64dEFa3544c695db8c535D289d843a189aa26b98",
     "name": "Moola cUSD DEPRECATED",
     "symbol": "mcUSDxOLD",
