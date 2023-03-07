@@ -430,5 +430,11 @@
     "name": "Optics v2 USDC",
     "symbol": "USDC",
     "decimals": 6
+  },
+  {
+    "address": "0x27cd006548dF7C8c8e9fdc4A67fa05C2E3CA5CF9",
+    "name": "PLASTIK Token",
+    "symbol": "PLASTIK",
+    "decimals": 9
   }
 ]
