@@ -42,11 +42,6 @@
     "symbol": "NTMX"
   },
   {
-    "address": "0x173234922eB27d5138c5e481be9dF5261fAeD450",
-    "name": "Allbridge SOL",
-    "symbol": "SOL"
-  },
-  {
     "address": "0x17700282592D6917F6A73D0bF8AcCf4D578c131e",
     "name": "Moola",
     "symbol": "MOO"
@@ -102,11 +97,6 @@
     "logoFile": "asset_cETH.svg"
   },
   {
-    "address": "0x2E3487F967DF2Ebc2f236E16f8fCAeac7091324D",
-    "name": "Optics v2 WMATIC via Polygon",
-    "symbol": "WMATIC"
-  },
-  {
     "address": "0x301a61D01A63c8D670c2B8a43f37d12eF181F997",
     "name": "Poof CELO",
     "symbol": "pCELO"
@@ -121,12 +111,6 @@
     "name": "Portal USDC from Ethereum",
     "symbol": "USDCet",
     "decimals": 6
-  },
-  {
-    "address": "0x3aF556B48469D2398AB7BE1563a0cfd80ea4aC84",
-    "name": "Optics v1 WMATIC",
-    "symbol": "WMATICxV1",
-    "isExperimental": true
   },
   {
     "address": "0x4213E7aB42dD21366508B18edfc33C29e7cBD81B",
@@ -288,11 +272,6 @@
     "address": "0xA287A3722c367849eFA5c76e96BE36efd65C290e",
     "name": "Celo DeFi Index",
     "symbol": "cDEFI"
-  },
-  {
-    "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
-    "name": "Anyswap BNB",
-    "symbol": "BNB"
   },
   {
     "address": "0xa81D9a2d29373777E4082d588958678a6Df5645c",

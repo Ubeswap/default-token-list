@@ -2,7 +2,7 @@
   "name": "Ubeswap",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2023-03-07T20:41:39.056Z",
+  "timestamp": "2023-06-13T23:26:19.385Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -51,14 +51,6 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_NTMX.png"
-    },
-    {
-      "address": "0x173234922eB27d5138c5e481be9dF5261fAeD450",
-      "name": "Allbridge SOL",
-      "symbol": "SOL",
-      "chainId": 42220,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_SOL.png"
     },
     {
       "address": "0x17700282592D6917F6A73D0bF8AcCf4D578c131e",
@@ -123,14 +115,6 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cETH.svg"
-    },
-    {
-      "address": "0x2E3487F967DF2Ebc2f236E16f8fCAeac7091324D",
-      "name": "Optics v2 WMATIC via Polygon",
-      "symbol": "WMATIC",
-      "chainId": 42220,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_WMATIC.png"
     },
     {
       "address": "0x301a61D01A63c8D670c2B8a43f37d12eF181F997",
@@ -331,14 +315,6 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cDEFI.png"
-    },
-    {
-      "address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
-      "name": "Anyswap BNB",
-      "symbol": "BNB",
-      "chainId": 42220,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_BNB.png"
     },
     {
       "address": "0xa81D9a2d29373777E4082d588958678a6Df5645c",
