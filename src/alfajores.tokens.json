@@ -56,6 +56,11 @@
     "symbol": "MZPN"
   },
   {
+    "address": "0x6054aC9c220070F8c3093730d64E701ad23077C5",
+    "name": "Glo Dollar",
+    "symbol": "USDGLO"
+  },
+  {
     "address": "0x653cC2Cc0Be398614BAd5d5328336dc79281e246",
     "name": "Moola CELO",
     "symbol": "mCELO"
