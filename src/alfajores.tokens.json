@@ -30,6 +30,11 @@
     "symbol": "mcEURxOLD"
   },
   {
+    "address": "0xB0FA15e002516d0301884059c0aaC0F0C72b019D",
+    "name": "ECO CFA",
+    "symbol": "eXOF"
+  },
+  {
     "address": "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd",
     "name": "Portal USDC from Ethereum",
     "symbol": "USDCet",
