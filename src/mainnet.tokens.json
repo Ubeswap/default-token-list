@@ -1,13 +1,113 @@
 [
   {
+    "address": "0x71e26d0E519D14591b9dE9a0fE9513A398101490",
+    "name": "Ubeswap",
+    "symbol": "UBE"
+  },
+  {
+    "address": "0x471EcE3750Da237f93B8E339c536989b8978a438",
+    "name": "Celo",
+    "symbol": "CELO"
+  },
+  {
+    "address": "0xceba9300f2b948710d2653dd7b07f33a8b32118c",
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": 6
+  },
+  {
+    "address": "0x48065fbBE25f71C9282ddf5e1cD6D6A887483D5e",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6
+  },
+  {
+    "address": "0x765DE816845861e75A25fCA122bb6898B8B1282a",
+    "name": "Celo Dollar",
+    "symbol": "cUSD"
+  },
+  {
+    "address": "0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73",
+    "name": "Celo Euro",
+    "symbol": "cEUR"
+  },
+  {
+    "address": "0x918146359264C492BD6934071c6Bd31C854EDBc3",
+    "name": "Moola cUSD",
+    "symbol": "mcUSD"
+  },
+  {
+    "address": "0xE273Ad7ee11dCfAA87383aD5977EE1504aC07568",
+    "name": "Moola cEUR",
+    "symbol": "mcEUR"
+  },
+  {
+    "address": "0x122013fd7dF1C6F636a5bb8f03108E876548b455",
+    "name": "Optics v2 WETH",
+    "symbol": "WETH"
+  },
+  {
+    "address": "0x2879BFD5e7c4EF331384E908aaA3Bd3014b703fA",
+    "name": "Savings CELO",
+    "symbol": "sCELO"
+  },
+  {
+    "address": "0x2DEf4285787d58a2f811AF24755A8150622f4361",
+    "name": "wrapped.com Ethereum",
+    "symbol": "cETH",
+    "logoFile": "asset_cETH.svg"
+  },
+  {
+    "address": "0x17700282592D6917F6A73D0bF8AcCf4D578c131e",
+    "name": "Moola",
+    "symbol": "MOO"
+  },
+  {
+    "address": "0x7D00cd74FF385c955EA3d79e47BF06bD7386387D",
+    "name": "Moola CELO",
+    "symbol": "mCELO"
+  },
+  {
+    "address": "0x46c9757C5497c5B1f2eb73aE79b6B67D119B0B58",
+    "name": "impactMarket",
+    "symbol": "PACT"
+  },
+  {
+    "address": "0x62B8B11039FcfE5aB0C56E502b1C372A3d2a9c7A",
+    "name": "GoodDollar",
+    "symbol": "G$",
+    "decimals": 18
+  },
+  {
+    "address": "0xe8537a3d056DA446677B9E9d6c5dB704EaAb4787",
+    "name": "Celo Real",
+    "symbol": "cREAL"
+  },
+  {
+    "address": "0x6e512BFC33be36F2666754E996ff103AD1680Cc9",
+    "name": "Allbridge",
+    "symbol": "ABR"
+  },
+  {
+    "address": "0x8E3670FD7B0935d3FE832711deBFE13BB689b690",
+    "name": "Allbridge AVAX",
+    "symbol": "AVAX"
+  },
+  {
+    "address": "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207",
+    "name": "Portal Ether",
+    "symbol": "ETH"
+  },
+  {
+    "address": "0xef4229c8c3250C675F21BCefa42f58EfbfF6002a",
+    "name": "Optics v2 USDC",
+    "symbol": "USDC",
+    "decimals": 6
+  },
+  {
     "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
     "name": "Poof",
     "symbol": "POOF"
-  },
-  {
-    "address": "0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC",
-    "name": "Ubeswap",
-    "symbol": "UBE"
   },
   {
     "address": "0x02De4766C272abc10Bc88c220D214A26960a7e92",
@@ -21,6 +121,12 @@
     "isExperimental": true
   },
   {
+    "address": "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd",
+    "name": "Portal USDC from Ethereum",
+    "symbol": "USDCet",
+    "decimals": 6
+  },
+  {
     "address": "0x0a60c25Ef6021fC3B479914E6bcA7C03c18A97f1",
     "name": "Stabilite USD",
     "symbol": "stabilUSD"
@@ -32,19 +138,9 @@
     "isExperimental": true
   },
   {
-    "address": "0x122013fd7dF1C6F636a5bb8f03108E876548b455",
-    "name": "Optics v2 WETH",
-    "symbol": "WETH"
-  },
-  {
     "address": "0x123ED050805E0998EBEf43671327139224218e50",
     "name": "NetM Token",
     "symbol": "NTMX"
-  },
-  {
-    "address": "0x17700282592D6917F6A73D0bF8AcCf4D578c131e",
-    "name": "Moola",
-    "symbol": "MOO"
   },
   {
     "address": "0x1a8Dbe5958c597a744Ba51763AbEBD3355996c3e",
@@ -74,11 +170,6 @@
     "decimals": 9
   },
   {
-    "address": "0x2879BFD5e7c4EF331384E908aaA3Bd3014b703fA",
-    "name": "Savings CELO",
-    "symbol": "sCELO"
-  },
-  {
     "address": "0x29dFce9c22003A4999930382Fd00f9Fd6133Acd1",
     "name": "Optics v2 SUSHI",
     "symbol": "SUSHI"
@@ -91,12 +182,6 @@
     "isExperimental": true
   },
   {
-    "address": "0x2DEf4285787d58a2f811AF24755A8150622f4361",
-    "name": "wrapped.com Ethereum",
-    "symbol": "cETH",
-    "logoFile": "asset_cETH.svg"
-  },
-  {
     "address": "0x301a61D01A63c8D670c2B8a43f37d12eF181F997",
     "name": "Poof CELO",
     "symbol": "pCELO"
@@ -105,12 +190,6 @@
     "address": "0x32A9FE697a32135BFd313a6Ac28792DaE4D9979d",
     "name": "Celo Moss Carbon Credit",
     "symbol": "cMCO2"
-  },
-  {
-    "address": "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd",
-    "name": "Portal USDC from Ethereum",
-    "symbol": "USDCet",
-    "decimals": 6
   },
   {
     "address": "0x4213E7aB42dD21366508B18edfc33C29e7cBD81B",
@@ -123,16 +202,6 @@
     "address": "0x452EF5a4bD00796e62E5e5758548e0dA6e8CCDF3",
     "name": "CeloStarter",
     "symbol": "cStar"
-  },
-  {
-    "address": "0x46c9757C5497c5B1f2eb73aE79b6B67D119B0B58",
-    "name": "impactMarket",
-    "symbol": "PACT"
-  },
-  {
-    "address": "0x471EcE3750Da237f93B8E339c536989b8978a438",
-    "name": "Celo",
-    "symbol": "CELO"
   },
   {
     "address": "0x47264aE1Fc0c8e6418ebe78630718E11a07346A8",
@@ -152,26 +221,10 @@
     "isExperimental": true
   },
   {
-    "address": "0x62B8B11039FcfE5aB0C56E502b1C372A3d2a9c7A",
-    "name": "GoodDollar",
-    "symbol": "G$",
-    "decimals": 18
-  },
-  {
     "address": "0x64dEFa3544c695db8c535D289d843a189aa26b98",
     "name": "Moola cUSD DEPRECATED",
     "symbol": "mcUSDxOLD",
     "isExperimental": true
-  },
-  {
-    "address": "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207",
-    "name": "Portal Ether",
-    "symbol": "ETH"
-  },
-  {
-    "address": "0x6e512BFC33be36F2666754E996ff103AD1680Cc9",
-    "name": "Allbridge",
-    "symbol": "ABR"
   },
   {
     "address": "0x7037F7296B2fc7908de7b57a89efaa8319f0C500",
@@ -190,11 +243,6 @@
     "symbol": "SOURCE"
   },
   {
-    "address": "0x765DE816845861e75A25fCA122bb6898B8B1282a",
-    "name": "Celo Dollar",
-    "symbol": "cUSD"
-  },
-  {
     "address": "0x788BA01f8E2b87c08B142DB46F82094e0bdCad4F",
     "name": "Staked Allbridge",
     "symbol": "xABR"
@@ -204,11 +252,6 @@
     "name": "Symmetric DEPRECATED",
     "symbol": "SYMMxOLD",
     "isExperimental": true
-  },
-  {
-    "address": "0x7D00cd74FF385c955EA3d79e47BF06bD7386387D",
-    "name": "Moola CELO",
-    "symbol": "mCELO"
   },
   {
     "address": "0x832F03bCeE999a577cb592948983E35C048B5Aa4",
@@ -227,19 +270,9 @@
     "decimals": 6
   },
   {
-    "address": "0x8E3670FD7B0935d3FE832711deBFE13BB689b690",
-    "name": "Allbridge AVAX",
-    "symbol": "AVAX"
-  },
-  {
     "address": "0x90Ca507a5D4458a4C6C6249d186b6dCb02a5BCCd",
     "name": "Optics v2 DAI",
     "symbol": "DAI"
-  },
-  {
-    "address": "0x918146359264C492BD6934071c6Bd31C854EDBc3",
-    "name": "Moola cUSD",
-    "symbol": "mcUSD"
   },
   {
     "address": "0x93DB49bE12B864019dA9Cb147ba75cDC0506190e",
@@ -343,11 +376,6 @@
     "symbol": "pEUR"
   },
   {
-    "address": "0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73",
-    "name": "Celo Euro",
-    "symbol": "cEUR"
-  },
-  {
     "address": "0xD90BBdf5904cb7d275c41f897495109B9A5adA58",
     "name": "CeloDoge",
     "symbol": "cDOGE",
@@ -364,11 +392,6 @@
     "name": "Duino-Coin on Celo",
     "symbol": "celoDUCO",
     "isExperimental": true
-  },
-  {
-    "address": "0xE273Ad7ee11dCfAA87383aD5977EE1504aC07568",
-    "name": "Moola cEUR",
-    "symbol": "mcEUR"
   },
   {
     "address": "0xE4fE50cdD716522A56204352f00AA110F731932d",
@@ -389,11 +412,6 @@
     "isExperimental": true
   },
   {
-    "address": "0xe8537a3d056DA446677B9E9d6c5dB704EaAb4787",
-    "name": "Celo Real",
-    "symbol": "cREAL"
-  },
-  {
     "address": "0xE919F65739c26a42616b7b8eedC6b5524d1e3aC4",
     "name": "Optics v1 WETH",
     "symbol": "WETHxV1",
@@ -411,9 +429,8 @@
     "decimals": 18
   },
   {
-    "address": "0xef4229c8c3250C675F21BCefa42f58EfbfF6002a",
-    "name": "Optics v2 USDC",
-    "symbol": "USDC",
-    "decimals": 6
+    "address": "0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC",
+    "name": "Ubeswap (Old)",
+    "symbol": "old-UBE"
   }
 ]
