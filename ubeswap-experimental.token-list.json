@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2024-05-30T13:24:54.582Z",
+  "timestamp": "2024-05-30T13:39:39.110Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -341,6 +341,14 @@
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_USDC.png"
     },
     {
+      "address": "0xBAAB46E28388d2779e6E31Fd00cF0e5Ad95E327B",
+      "name": "Optics v2 WBTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_WBTC.png"
+    },
+    {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
       "name": "Poof",
       "symbol": "POOF",
@@ -667,14 +675,6 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_pUSD.png"
-    },
-    {
-      "address": "0xBAAB46E28388d2779e6E31Fd00cF0e5Ad95E327B",
-      "name": "Optics v2 WBTC",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "chainId": 42220,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_WBTC.png"
     },
     {
       "address": "0xbDd31EFfb9E9f7509fEaAc5B4091b31645A47e4b",

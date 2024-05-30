@@ -105,6 +105,12 @@
     "decimals": 6
   },
   {
+    "address": "0xBAAB46E28388d2779e6E31Fd00cF0e5Ad95E327B",
+    "name": "Optics v2 WBTC",
+    "symbol": "WBTC",
+    "decimals": 8
+  },
+  {
     "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
     "name": "Poof",
     "symbol": "POOF"
@@ -329,12 +335,6 @@
     "name": "Poof v1 USD",
     "symbol": "pUSDxV1",
     "isExperimental": true
-  },
-  {
-    "address": "0xBAAB46E28388d2779e6E31Fd00cF0e5Ad95E327B",
-    "name": "Optics v2 WBTC",
-    "symbol": "WBTC",
-    "decimals": 8
   },
   {
     "address": "0xbDd31EFfb9E9f7509fEaAc5B4091b31645A47e4b",
