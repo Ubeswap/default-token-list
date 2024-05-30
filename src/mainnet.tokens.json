@@ -10,7 +10,7 @@
     "symbol": "CELO"
   },
   {
-    "address": "0xceba9300f2b948710d2653dd7b07f33a8b32118c",
+    "address": "0xcebA9300f2b948710d2653dD7B07f33A8B32118C",
     "name": "USDC",
     "symbol": "USDC",
     "decimals": 6
@@ -430,7 +430,7 @@
   },
   {
     "address": "0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC",
-    "name": "Ubeswap (Old)",
+    "name": "Ubeswap Old",
     "symbol": "old-UBE"
   }
 ]

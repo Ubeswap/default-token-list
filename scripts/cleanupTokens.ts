@@ -10,11 +10,13 @@ import {
 const cleanupTokens = async (network: ICeloNetwork) => {
   const file = `${__dirname}/../src/${network}.tokens.json`;
 
-  const tokens = getNetworkTokens(network)
-    .slice()
-    .sort((a, b) =>
-      a.address.toLowerCase().localeCompare(b.address.toLowerCase())
-    );
+  //const tokens = getNetworkTokens(network)
+  //  .slice()
+  //  .sort((a, b) =>
+  //    a.address.toLowerCase().localeCompare(b.address.toLowerCase())
+  //  );
+
+  const tokens = getNetworkTokens(network);
 
   await fs.writeFile(
     file,
