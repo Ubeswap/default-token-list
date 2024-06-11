@@ -68,7 +68,7 @@
     "symbol": "mCELO"
   },
   {
-    "address": "0x46c9757C5497c5B1f2eb73aE79b6B67D119B0B58",
+    "address": "0x2b9018CeB303D540BbF08De8e7De64fDDD63396C",
     "name": "impactMarket",
     "symbol": "PACT"
   },
@@ -119,6 +119,11 @@
     "address": "0x02De4766C272abc10Bc88c220D214A26960a7e92",
     "name": "Nature Carbon Tonne",
     "symbol": "NCT"
+  },
+  {
+    "address": "0x46c9757C5497c5B1f2eb73aE79b6B67D119B0B58",
+    "name": "impactMarket Old",
+    "symbol": "old-PACT"
   },
   {
     "address": "0x035eE610693a29Cb77fD6eFBEb9d9d278703e145",

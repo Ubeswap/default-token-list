@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2024-05-30T13:39:39.110Z",
+  "timestamp": "2024-06-11T08:19:16.893Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -285,7 +285,7 @@
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mCELO.png"
     },
     {
-      "address": "0x46c9757C5497c5B1f2eb73aE79b6B67D119B0B58",
+      "address": "0x2b9018CeB303D540BbF08De8e7De64fDDD63396C",
       "name": "impactMarket",
       "symbol": "PACT",
       "chainId": 42220,
@@ -363,6 +363,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_NCT.png"
+    },
+    {
+      "address": "0x46c9757C5497c5B1f2eb73aE79b6B67D119B0B58",
+      "name": "impactMarket Old",
+      "symbol": "old-PACT",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_old-PACT.png"
     },
     {
       "address": "0x035eE610693a29Cb77fD6eFBEb9d9d278703e145",
