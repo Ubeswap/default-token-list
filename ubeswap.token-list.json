@@ -2,7 +2,7 @@
   "name": "Ubeswap",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2024-06-11T08:19:16.893Z",
+  "timestamp": "2024-09-13T12:41:24.147Z",
   "tokens": [
     {
       "address": "0x71e26d0E519D14591b9dE9a0fE9513A398101490",
@@ -51,6 +51,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cEUR.png"
+    },
+    {
+      "address": "0x4F604735c1cF31399C6E711D5962b2B3E0225AD3",
+      "name": "Glo Dollar",
+      "symbol": "USDGLO",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_USDGLO.png"
     },
     {
       "address": "0x918146359264C492BD6934071c6Bd31C854EDBc3",
