@@ -89,6 +89,11 @@
     "symbol": "cREAL"
   },
   {
+    "address": "0xaCFfAe8e57Ec6E394Eb1b41939A8CF7892DbDc51",
+    "name": "Autonolas",
+    "symbol": "OLAS"
+  },
+  {
     "address": "0x6e512BFC33be36F2666754E996ff103AD1680Cc9",
     "name": "Allbridge",
     "symbol": "ABR"

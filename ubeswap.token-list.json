@@ -2,7 +2,7 @@
   "name": "Ubeswap",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2024-09-13T12:41:24.147Z",
+  "timestamp": "2024-11-10T21:35:11.269Z",
   "tokens": [
     {
       "address": "0x71e26d0E519D14591b9dE9a0fE9513A398101490",
@@ -139,6 +139,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cREAL.png"
+    },
+    {
+      "address": "0xaCFfAe8e57Ec6E394Eb1b41939A8CF7892DbDc51",
+      "name": "Autonolas",
+      "symbol": "OLAS",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_OLAS.png"
     },
     {
       "address": "0x6e512BFC33be36F2666754E996ff103AD1680Cc9",
