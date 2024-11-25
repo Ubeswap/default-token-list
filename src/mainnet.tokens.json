@@ -1,6 +1,13 @@
 [
+
   {
-    "address": "0x71e26d0E519D14591b9dE9a0fE9513A398101490",
+  "address": "0xAE62Ca7e7Bc80C800DADc1c4b9175800033537cd",
+  "name": "PrideToken",
+  "symbol": "PRD",
+  "decimals": 18,
+  "logoURI": "https://pridefunding.org/assets/PrideToken/PrideTokenbg.svg"
+  },
+  {"address": "0x71e26d0E519D14591b9dE9a0fE9513A398101490",
     "name": "Ubeswap",
     "symbol": "UBE"
   },
