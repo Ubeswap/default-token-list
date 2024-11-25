@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2024-11-10T21:35:11.269Z",
+  "timestamp": "2024-11-25T08:43:31.146Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -323,6 +323,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_OLAS.png"
+    },
+    {
+      "address": "0x7b97031b6297bc8e030B07Bd84Ce92FEa1B00c3e",
+      "name": "Commons",
+      "symbol": "COMMONS",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_COMMONS.png"
     },
     {
       "address": "0x6e512BFC33be36F2666754E996ff103AD1680Cc9",

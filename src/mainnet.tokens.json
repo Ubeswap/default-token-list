@@ -94,6 +94,11 @@
     "symbol": "OLAS"
   },
   {
+    "address": "0x7b97031b6297bc8e030B07Bd84Ce92FEa1B00c3e",
+    "name": "Commons",
+    "symbol": "COMMONS"
+  },
+  {
     "address": "0x6e512BFC33be36F2666754E996ff103AD1680Cc9",
     "name": "Allbridge",
     "symbol": "ABR"
