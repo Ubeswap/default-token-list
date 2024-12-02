@@ -8,7 +8,7 @@
   "license": "MIT",
   "devDependencies": {
     "@ethersproject/address": "^5.4.0",
-    "@types/node": "^16.3.2",
+    "@types/node": "^22.10.1",
     "@types/probe-image-size": "^7.0.1",
     "@uniswap/token-lists": "^1.0.0-beta.25",
     "ajv": "^8.6.1",
@@ -18,8 +18,8 @@
     "lint-staged": ">=11.0.1",
     "prettier": "^2.3.2",
     "probe-image-size": "^7.2.2",
-    "ts-node": "^10.1.0",
-    "typescript": "^4.3.5"
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
   },
   "lint-staged": {
     "*.{js,css,md,json,yaml,yml,ts}": "prettier --write",
