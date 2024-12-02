@@ -1,12 +1,5 @@
 [
   {
-    "address": "0xAE62Ca7e7Bc80C800DADc1c4b9175800033537cd",  
-    "name": "PrideToken",  
-    "symbol": "PRD",  
-    "decimals": 18,  
-    "logoURI": "https://pridefunding.org/assets/PrideToken/PrideTokenbg.svg"  
-  },  
-  {
     "address": "0x471EcE3750Da237f93B8E339c536989b8978a438",
     "name": "Celo",
     "symbol": "CELO"
@@ -454,5 +447,11 @@
     "address": "0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC",
     "name": "Ubeswap Old",
     "symbol": "old-UBE"
+  },
+  {
+    "address": "0xAE62Ca7e7Bc80C800DADc1c4b9175800033537cd",
+    "name": "PrideToken",
+    "symbol": "PRD",
+    "decimals": 18
   }
 ]

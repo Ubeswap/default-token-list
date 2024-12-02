@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2024-11-25T08:43:31.146Z",
+  "timestamp": "2024-12-02T20:56:01.003Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -179,14 +179,6 @@
       "chainId": 62320,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_CELO.png"
-    },
-    {
-      "address": "0x71e26d0E519D14591b9dE9a0fE9513A398101490",
-      "name": "Ubeswap",
-      "symbol": "UBE",
-      "chainId": 42220,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_UBE.png"
     },
     {
       "address": "0x471EcE3750Da237f93B8E339c536989b8978a438",
@@ -843,6 +835,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_old-UBE.png"
+    },
+    {
+      "address": "0xAE62Ca7e7Bc80C800DADc1c4b9175800033537cd",
+      "name": "PrideToken",
+      "symbol": "PRD",
+      "decimals": 18,
+      "chainId": 42220,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_PRD.png"
     }
   ],
   "version": {
