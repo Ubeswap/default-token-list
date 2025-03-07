@@ -11,19 +11,19 @@ jobs:
     if: ${{ github.event.pusher.name != 'github-actions[bot]' }}
     name: Build and publish the new token list
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - uses: fregante/setup-git-user@v1
 
       # Create package
       - name: Setup Node
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v4
         with:
           always-auth: true
           registry-url: "https://registry.npmjs.org"
           node-version: 14.x
 
       - name: Cache Node modules
-        uses: actions/cache@v2
+        uses: actions/cache@v4
         id: cache-node-modules
         with:
           path: ./node_modules
