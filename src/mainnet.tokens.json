@@ -52,6 +52,11 @@
     "symbol": "WETH"
   },
   {
+    "address": "0x4BD6C2A3c7e0141dD7aa3e71008Cbe68D86Da53E",
+    "name": "Celon Musk",
+    "symbol": "CELON"
+  },
+  {
     "address": "0x2879BFD5e7c4EF331384E908aaA3Bd3014b703fA",
     "name": "Savings CELO",
     "symbol": "sCELO"
