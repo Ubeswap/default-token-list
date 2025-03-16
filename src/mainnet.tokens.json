@@ -104,6 +104,11 @@
     "symbol": "COMMONS"
   },
   {
+    "address": "0x69345529fFC1140A620B6cFDc91cf784C91D4571",
+    "name": "AnkorX | onchain harbor",
+    "symbol": "ANKOR"
+  },
+  {
     "address": "0x6e512BFC33be36F2666754E996ff103AD1680Cc9",
     "name": "Allbridge",
     "symbol": "ABR"
