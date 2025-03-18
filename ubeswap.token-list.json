@@ -2,7 +2,7 @@
   "name": "Ubeswap",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2025-03-16T21:50:24.798Z",
+  "timestamp": "2025-03-18T09:52:25.328Z",
   "tokens": [
     {
       "address": "0x71e26d0E519D14591b9dE9a0fE9513A398101490",
@@ -166,7 +166,7 @@
     },
     {
       "address": "0x69345529fFC1140A620B6cFDc91cf784C91D4571",
-      "name": "AnkorX | onchain harbor",
+      "name": "AnkorX",
       "symbol": "ANKOR",
       "chainId": 42220,
       "decimals": 18,
