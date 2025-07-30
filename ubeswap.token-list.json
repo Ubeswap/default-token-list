@@ -2,7 +2,7 @@
   "name": "Ubeswap",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2025-03-18T09:52:25.328Z",
+  "timestamp": "2025-07-30T18:35:29.440Z",
   "tokens": [
     {
       "address": "0x71e26d0E519D14591b9dE9a0fE9513A398101490",
@@ -91,6 +91,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_CELON.png"
+    },
+    {
+      "address": "0x2E6C05f1f7D1f4Eb9A088bf12257f1647682b754",
+      "name": "Regen Network",
+      "symbol": "axlREGEN",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_axlREGEN.png"
     },
     {
       "address": "0x2879BFD5e7c4EF331384E908aaA3Bd3014b703fA",
