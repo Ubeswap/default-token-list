@@ -84,6 +84,11 @@
     "symbol": "mCELO"
   },
   {
+    "address": "0x1d18d0386F51ab03E7E84E71BdA1681EbA865F1f",
+    "name": "JMPT Rewards",
+    "symbol": "JMPT"
+  },
+  {
     "address": "0x2b9018CeB303D540BbF08De8e7De64fDDD63396C",
     "name": "impactMarket",
     "symbol": "PACT"

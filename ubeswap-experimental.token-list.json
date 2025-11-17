@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2025-07-31T14:41:47.325Z",
+  "timestamp": "2025-11-17T17:29:01.064Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -307,6 +307,14 @@
       "chainId": 42220,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mCELO.png"
+    },
+    {
+      "address": "0x1d18d0386F51ab03E7E84E71BdA1681EbA865F1f",
+      "name": "JMPT Rewards",
+      "symbol": "JMPT",
+      "chainId": 42220,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_JMPT.png"
     },
     {
       "address": "0x2b9018CeB303D540BbF08De8e7De64fDDD63396C",
