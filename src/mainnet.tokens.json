@@ -63,6 +63,11 @@
     "decimals": 6
   },
   {
+    "address": "0x000BE46901ea6f7ac2c1418D158f2f0A80992c07",
+    "name": "Pony Token",
+    "symbol": "PONY"
+  },
+  {
     "address": "0x2879BFD5e7c4EF331384E908aaA3Bd3014b703fA",
     "name": "Savings CELO",
     "symbol": "sCELO"
