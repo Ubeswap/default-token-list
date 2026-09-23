@@ -2,7 +2,7 @@
   "name": "Ubeswap Experimental",
   "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/logo.svg",
   "keywords": ["celo", "ubeswap", "defi"],
-  "timestamp": "2026-02-18T19:28:40.062Z",
+  "timestamp": "2026-09-23T19:09:30.648Z",
   "tokens": [
     {
       "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
@@ -214,11 +214,11 @@
     },
     {
       "address": "0x765DE816845861e75A25fCA122bb6898B8B1282a",
-      "name": "Celo Dollar",
-      "symbol": "cUSD",
+      "name": "Mento Dollar",
+      "symbol": "USDm",
       "chainId": 42220,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cUSD.png"
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_USDm.png"
     },
     {
       "address": "0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73",
