@@ -20,7 +20,7 @@ To add a token to Ubeswap:
 Recommend the squoosh-cli.
 `yarn squoosh-cli --output-dir tmp/resized --resize '{width: 200}' --oxipng auto assets/asset_cETH.png`
 
-In certain cases such as if the proportions are not square or if automatic resize results in a larger file size than the orginal you will need to resize with another tool or re export from your graphics app.
+In certain cases such as if the proportions are not square or if automatic resize results in a larger file size than the original you will need to resize with another tool or re export from your graphics app.
 
 ## License
 
